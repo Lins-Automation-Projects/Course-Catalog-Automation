@@ -1,0 +1,7 @@
+Course Number,Department,Course Name,Credit Count,Prerequisites,Description
+ACCT 200,Accounting,Financial Accounting,3,MATH 112 or MATH 115 or MATH 121 or MATH 130 or MATH 181,"The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting."
+ACCT 210,Accounting,Managerial Accounting,3,ACCT 200,Preparation and analysis of cost-based management reports: use of cost information to make short-term and long-term decisions.
+ACCT 220,Accounting,Accounting Cycle Applications,1,ACCT 200,"Extensive hands-on practice applying all steps in the accounting cycle. Emphasis on journal entries, adjusting entries, and preparation of financial statements."
+ACCT 300,Accounting,Intermediate Financial Accounting I,3,ACCT 200,"In-depth analysis of financial accounting concepts covering income statement, balance sheet, time value of money, receivables, and inventories."
+GERO 200,Aging Studies,Family Dynamics of Aging,3,N/A,"Exploration of life course perspective, service-learning opportunities, and reflection on aging."
+AGBZ 110,AgriBusiness & Food Innovation,Agronomy Selling Skills,3,N/A,Covers principles and techniques used in selling agricultural merchandise and services.
