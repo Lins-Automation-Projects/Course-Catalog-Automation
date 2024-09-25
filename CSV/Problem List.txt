@@ -1,0 +1,6 @@
+Known Problems:
+1. Credit Counts are shown as dates
+2. Some descriptions have prerequisites added to them or missing words
+3. Courses added to the end of other courses, Example: THEA 337
+4. Courses Removed but prerequisites added to the course before it, Example: PSYC 206
+5. Missing Courses, Example: AET 102
