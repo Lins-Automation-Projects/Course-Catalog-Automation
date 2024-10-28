@@ -1,0 +1,315 @@
+Accelerated Accounting (CERT)
+Accounting (BS)
+Accounting Minor
+Actuarial Science
+Advocating for Social Justice Minor
+Aeronautics Minor
+Aging Studies for Nursing Students Minor
+Aging Studies Minor
+Agribusiness and Food Innovation (BS)
+Agribusiness and Food Innovation Minor
+Agricultural Sciences (BS)
+Agriculture Minor
+Agronomy (BAS)
+Alcohol and Drug Studies (BS)
+Alcohol & Drug Studies Minor
+American Indigenous Studies (BA)
+American Indigenous Studies (BS)
+American Indigenous Studies (CERT)
+American Indigenous Studies Minor
+American Sign Language (CERT)
+Anthropology (BA)
+Anthropology (BS)
+Anthropology Minor
+Applied Health Science (BS) Health Education & Promotion
+Applied Health Science (BS) Pre-Athletic Training
+Applied Health Science (BS) Pre-Healthcare Administration
+Applied Health Science (BS) Pre-Occupational Therapy
+Applied Health Science (BS) Public Health
+Applied Health Science Minor
+Applied Leadership (BS)
+Art (BA)
+Art (BFA)
+Art (BFA) Graphic Design
+Art History (BA)
+Art History Minor
+Art Studio Minor
+Art Teaching (BS)
+Astronomy Minor
+Athletic Coaching Minor
+Athletic Training (Pre-Athletic Training)
+Automotive Engineering Minor
+Automotive Engineering Technology (BS)
+Automotive Engineering Technology Minor
+Aviation (BS) Aeronautics
+Aviation (BS) Aviation Management
+Aviation (BS) Professional Flight
+Aviation (BS) Unmanned Aircraft Systems
+Biochemistry (BA)
+Biochemistry (BS)
+Biology (BS) Biomedical and Cellular Biology
+Biology (BS) Organismal Biology and Ecology
+Biology Minor
+Biotechnology (BS)
+Bus Ad: General Minor
+Business Administration (BBA)
+Business Analytics (CERT)
+Business Law (CERT)
+Business Law Minor
+Chemistry - ACS Approved (BS)
+Chemistry (BA)
+Chemistry Minor
+Chemistry Teaching (BS)
+Child Development and Family Studies Minor
+Child, Youth, and Family Services (CERT)
+Chiropractic (Pre-Chiropractic)
+Civil Engineering (BSCE)
+Clinical and Diagnostic Sciences (BS) Cytotechnology
+Clinical and Diagnostic Sciences (BS) Medical Laboratory Science
+Clinical and Diagnostic Sciences (BS) Nuclear Medicine Technology
+Cognitive Science (BS) Biology
+Cognitive Science (BS) Computer Science
+Cognitive Science (BS) Philosophy
+Cognitive Science (BS) Psychology
+Communication and Media (BS)
+Communication and Media Minor
+Communication Arts and Literature - Education (BS)
+Communication Sciences and Disorders (BS)
+Communication Sciences and Disorders Minor
+Community Health Worker (CERT)
+Computer Application Development (BAS)
+Computer Engineering (BSEC)
+Computer Engineering Technology (BS)
+Computer & Information Science Minor
+Computer Information Technology (BS)
+Computer Science (BS)
+Computer Science Minor
+Computer Technology Minor
+Construction Management (BS)
+Consumer Studies Minor
+Corrections (BS)
+Corrections Minor
+Creative Writing (BA)
+Creative Writing Minor
+Criminal Justice (BS)
+Criminal Justice Minor
+Critical Thinking (CERT)
+Critical Thinking Minor
+Dance (BA)
+Dance (BFA)
+Dance (BS)
+Dance (BS) Dance Therapy (Pre-Professional)
+Dance (BS) Private Studio Teaching
+Dance Minor
+Database Technologies (CERT)
+Database Technologies Minor
+Dental Hygiene (BS)
+Dental Hygiene Post Licensure (BS)
+Developmental Adapted PE Minor
+Earth Science (BS)
+Earth Science Minor
+Earth Science Teaching (5-12) (BS)
+Economics (BA)
+Economics (BS)
+Economics Minor
+Electrical Engineering (BSEE)
+Electronic Engineering Technology (BS)
+Electronic Engineering Technology Minor
+Elementary Education (BS)
+Elementary Education STEM (CERT)
+English Literature Minor
+English Studies (BA)
+English Writing Studies Minor
+Entrepreneurship and Innovation (CERT)
+Entrepreneurship and Innovation Minor
+Environmental Geology (CERT)
+Environmental Humanities Minor
+Environmental Science (BS)
+Esport Management Minor
+Ethics Minor
+Ethnic Studies (BS) Business/Corporate
+Ethnic Studies (BS) International Community and Human Services
+Ethnic Studies (BS) Local Community and Human Services
+Ethnic Studies (BS) Public/Government
+Ethnic Studies (BS) Racial/Ethnic Communities in the United States
+Ethnic Studies Minor
+Exercise Science (BS) General Exercise Science
+Exercise Science (BS) Practitioner
+Experimental Psychology (CERT)
+Family Consumer Science Education (BS)
+FCS-Child Development & Family Studies (BS)
+Film and Media Studies (BA)
+Film Studies Minor
+Finance (BS) Financial Planning and Insurance
+Finance (BS) General Finance
+Finance (BS) Quantitative Finance
+Financial Planning Minor
+Food and Nutrition Minor
+Food Science Technology (BS)
+French (BA)
+French Minor
+French Teaching (BS)
+Gender and Women’s Studies (BA)
+Gender and Women’s Studies (BS)
+Gender and Women’s Studies Minor
+Geoarcheology (CERT)
+Geographic Information Science (CERT)
+Geography (BA)
+Geography (BS)
+Geography Minor
+Geology (BS)
+Geology Minor
+Geomorphology and Earth Surface Processes (CERT)
+Geospatial Science (BS)
+German (BA)
+German Minor
+German Teaching (BS)
+Global Solutions in Engineering and Technology Minor
+Graphic Design (CERT)
+Health and Physical Education (BS)
+Health Communication (BS)
+Health Communication Minor
+Health Informatics (BS)
+Health Informatics (CERT)
+Hispanic Studies: Languages and Cultures Minor
+History (BA)
+History (BS)
+History Minor
+Human-Animal Studies Minor
+Human Resource Management Minor
+HVAC&R Engineering Design (CERT)
+Information Security (CERT)
+Integrated Business Experience (CERT)
+Integrated Engineering (BSE)
+Integrated Science and Technology (BS)
+Interdisciplinary Humanities (BA)
+Interdisciplinary Humanities Minor
+Interdisciplinary Studies (BS)
+International Business (BS)
+International Business Minor
+International Relations (BA)
+International Relations Minor
+International Technology Minor
+Internet of Things (CERT)
+K-12 Teaching Programs
+Latin American Studies Minor
+Liberal Arts and Sciences (AA)
+Life Science Teaching (5-12) (BS)
+Linguistics Minor
+Literature (BA)
+Management (BS) Business Management
+Management (BS) Human Resource Management
+Management Information Systems (BS)
+Manufacturing Engineering Minor
+Manufacturing Engineering Tech Minor
+Manufacturing Engineering Technology (BS)
+Marketing (BS)
+Marketing Minor
+Mathematics (BA)
+Mathematics (BS)
+Mathematics Minor
+Mathematics Teaching (BS)
+Mechanical Engineering (BSME)
+Media Studies (BA)
+Middle Eastern Studies and Islamic World Minor
+Military Science Minor
+Museum Studies (CERT)
+Music (BA)
+Music (BA) Performance
+Music Education (BS) Instrumental/General Music (K-12)
+Music Education (BS) Vocal/General Music (K-12)
+Music Industry (BS)
+Music Minor
+Networking & Information Security Minor
+Networking Technologies (CERT)
+Non-Profit Leadership (CERT)
+Non-Profit Leadership Minor
+Nursing (BS)
+Nutrition and Dietetics (BS)
+Occupational Therapy (Pre-Occupational Therapy)
+Open Studies (BS)
+Osteopathic Medicine and Surgery (Pre-Osteopathic Medicine and Surgery)
+Philosophy (BA)
+Philosophy Minor
+Philosophy, Politics and Economics (BA) Economics
+Philosophy, Politics and Economics (BA) Philosophy
+Philosophy, Politics and Economics (BA) Political Science
+Physical Education & Developmental Adapted Phy Ed (BS)
+Physical Therapy (Pre-Physical Therapy)
+Physics (BS)
+Physics Minor
+Physics Teaching (BS)
+Policing Studies (BS)
+Policing Studies (CERT)
+Policing Studies Minor
+Political Science (BA)
+Political Science (BS)
+Program Requirements
+Post Bac Communication Sciences & Disorders (CERT)
+Private Flight Minor
+Professional Flight Minor
+Professional Sales (CERT)
+Project-based Engineering (CERT)
+Psychology (BS)
+Psychology Minor
+Public Policy Minor
+Public Relations (BS)
+Recreation and Parks Leadership Studies (BS) Cultural and Natural Resource Management
+Recreation and Parks Leadership Studies (BS) Recreation Leadership and Management
+Recreation Minor
+Renewable Energy (CERT)
+RN Baccalaureate Completion (BS)
+Scandinavian Studies (BA)
+Scandinavian Studies Minor
+Sexuality Studies Minor
+Social Studies (BS) Anthropology
+Social Studies (BS) Economics
+Social Studies (BS) Ethnic Studies
+Social Studies (BS) Gender & Women’s Studies
+Social Studies (BS) Geography
+Social Studies (BS) History
+Social Studies (BS) Political Science
+Social Studies (BS) Psychology
+Social Studies (BS) Sociology
+Social Studies Teaching (BS) Anthropology
+Social Studies Teaching (BS) Economics
+Social Studies Teaching (BS) Geography
+Social Studies Teaching (BS) History
+Social Studies Teaching (BS) Political Science
+Social Studies Teaching (BS) Psychology
+Social Studies Teaching (BS) Sociology
+Social Welfare Minor
+Social Work (BSSW)
+Sociology (BS)
+Sociology Minor
+Software Development (CERT)
+Software Development Minor
+Software Engineering (BS)
+Spanish (BA)
+Spanish Minor
+Spanish Teaching (BS)
+Special Education: Academic and Behavioral Strategist (BS)
+SPED: Autism/Emotional Behavioral Disorders (BS)
+Sport Management (BS)
+Sports Medicine Minor
+Statistics (BS)
+Statistics (BS) Actuarial
+Statistics Minor
+Teaching English as a Foreign Language (CERT)
+Teaching English to Speakers of Other Languages: K-12 ESL Licensure Preparation Minor
+Teaching English to Speakers of Other Languages Minor
+Teaching English to Speakers of Other Languages: Non-licensure Preparation Minor
+Teaching PK-12 Multilingual Learners (CERT)
+Technical Communication (BS)
+Technical Communication (CERT)
+Technical Communication Minor
+Technical Integration & Design (CERT)
+Technical Integration & Design Minor
+Theatre Arts (BA)
+Theatre Arts (BFA) Acting
+Theatre Arts (BFA) Design/Technology
+Theatre Arts (BFA) Musical Theatre
+Theatre Arts (BS)
+Theatre Arts Minor
+Urban and Regional Studies (BS)
+Urban and Regional Studies Minor

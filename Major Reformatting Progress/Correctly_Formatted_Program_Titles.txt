@@ -1,4 +1,6 @@
-Accelerated Accounting (CERT)
+
+Accelerated 
+Accounting (CERT)
 Total Credits: 16
 Summary
 The Accelerated Accounting certificate is designed for individuals who have completed, or are pursuing, undergraduate degrees outside of accounting. It consists of the core accounting classes necessary to succeed in the profession. The certificate provides individuals with the necessary background to enroll in a Master of Accounting graduate program and obtain the educational requirements for Certified Public Accounting (CPA) certification. For those not interested in an accounting graduate program/CPA certification, the certificate provides the core foundation for performing the key accounting functions (financial, taxation, assurance) required at all organizations; public, private, and not for profit.
@@ -20,7 +22,8 @@ Accounting II 3
 ACCT 330 Individual Income Tax 3
 ACCT 410 Business Income Tax 3
 ACCT 421 Assurance Services I 3
-Accounting (BS)
+A
+ccounting (BS)
 Total Credits: 120
 Summary
 Policies
@@ -80,7 +83,7 @@ BLAW 450 Contract Law and Professional Responsibility 3
 Major Unrestricted Electives
 Optional Applied Experience
 Choose 0 - 3 Credit(s).
-BUS 397 IBE Practicum 3 38 2024-2025 Undergraduate Catalog
+BUS 397 IBE Practicum 3 
 Accounting Minor
 Total Credits: 18
 Summary
@@ -259,7 +262,9 @@ GERO 485 Topics in Gerontology 1-3
 GERO 499 Individual Study in Gerontology 1-4
 HLTH 441 Death Education 3
 RPLS 482 Leisure and Older Adults 3 
-Agribusiness and Food Innovation (BS)
+A
+gribusiness 
+and Food Innovation (BS)
 Total Credits: 120
 Summary
 The AgriBusiness & Food Innovation major prepares students to be the leaders of tomorrow by developing agriculture and food knowledge, skills and abilities. Students will engage in applied learning and develop leadership skills in the agribusiness and food realm.
@@ -403,7 +408,8 @@ Growth 3
 MGMT 496
 Internship 4
 Agricultural
-Sciences (BS)
+S
+ciences (BS)
 Total Credits: 120
 Summary
 Agricultural Sciences includes the study of soil management, and crop and animal production; the science is a combination of ecology, biology, chemistry, and genetics, and seeks to understand plant and animal nutrition and crop and animal production. Students prepare for careers related to agriculture as they learn soil physical and chemical characteristics and effects of agriculture on soil fertility. They study other factors of production including climate, weeds, fungi, erosion, leaching, and pests. Students also learn about plant physiology, genetics, nutrition, effects on soil, satellite-based micro-management of inputs and the maximization of sustained yield, and how to market farm products.
@@ -460,7 +466,7 @@ GEOL 449 Applied Soil Science and Surface Hydrology 4
 Agriculture Minor
 Total Credits: 20
 Summary
-A program that focuses on the general principles and practice of agricultural research and production and that may prepare individuals to apply this knowledge to the solution of practical agricultural problems. Includes instruction in basic animal, plant, and soil science; plant cultivation; nutrition; soil conservation; technical writing; food policy and agricultural operations such as farming, ranching, and agricultural business. 42 2024-2025 Undergraduate Catalog
+A program that focuses on the general principles and practice of agricultural research and production and that may prepare individuals to apply this knowledge to the solution of practical agricultural problems. Includes instruction in basic animal, plant, and soil science; plant cultivation; nutrition; soil conservation; technical writing; food policy and agricultural operations such as farming, ranching, and agricultural business. 
 Program Requirements
 Core
 ENG 273W Agricultural Communication 4
@@ -500,7 +506,8 @@ Unrestricted Electives
 Internship Capstone
 Choose 3 Credit(s).
 The required 3-credit internship may come from any disciplinary area of the institution but requires approval of the home department and the coordinator of the Agriculture minor. Typically, a 497 or 498 course.
-Agronomy (BAS)
+A
+gronomy (BAS)
 Total Credits: 120
 Summary
 Agronomy provides broad training in the crop and soil sciences.
@@ -566,7 +573,8 @@ Choose 1 - 11 Credit(s).
 BIOL 497 Internship I 1-12
 Alcohol and
 Drug
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 The Alcohol and Drug Studies major is an interdisciplinary program. The program prepares students to enter the addictions field or further their knowledge of addictions to strengthen their competency within other disciplines. The major provides students with the academic coursework necessary to pursue the Licensed Alcohol and Drug Counselor (LADC) credential through the Minnesota Board of Behavioral Health and
@@ -615,7 +623,7 @@ SOWK 422 Social Work and Chemical Dependency 3
 Health Elective Options
 Choose 0 - 12 Credit(s).
 HLTH 101 - 499 Courses cannot double count with major required courses.
-Minor 44 2024-2025 Undergraduate Catalog
+Minor 
 A minor is required. Any minor accepted.
 Alcohol & Drug Studies Minor
 Total Credits: 21
@@ -638,8 +646,9 @@ HLTH 406 Ethics and Professionalism for Addictions Professionals 3
 HLTH 407 Pharmacology for Alcohol and Drug Professionals 3
 HLTH 408W Theories and Methods for Addictions Professionals 3
 HLTH 469 Co-Occurring Disorders 3
-American Indigenous Studies
-(BA)
+A
+merican 
+Indigenous Studies (BA)
 Total Credits: 120
 Summary
 Program Requirements
@@ -687,7 +696,8 @@ Minor
 Required Minor: Yes. Any.
 American
 Indigenous
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -734,8 +744,9 @@ PHIL 115W Philosophy of Race, Class and Gender 3
 POL 426 Racial and Ethnic Politics 4
 Minor
 Required Minor: Yes. Any.
-American Indigenous Studies
-(CERT)
+A
+merican 
+Indigenous Studies (CERT)
 Total Credits: 15
 Summary
 Students obtain an understanding of the Indigenous American experience in the United States. Students begin to comprehend the vast history of native cultures and the scope of contemporary issues facing Indigenous Americans today. The certificate is designed to enhance any major.
@@ -779,8 +790,9 @@ Upper Level Courses
 Choose 12 Credit(s).
 Choose 4 courses for a minimum of 12 credits.
 AIS 300 - 499
-American Sign Language
-(CERT)
+A
+merican 
+Sign Language (CERT)
 Total Credits: 16
 Summary
 The certificate signifies students have reached a minimum level of proficiency in American Sign Language and Deaf Studies.
@@ -792,8 +804,8 @@ CDIS 307 Advanced I American Sign Language - Level III 3
 CDIS 308 Conversations in American Sign Language 1
 CDIS 404 Deaf Studies: Deaf Culture, History and Social Justice 3
 CDIS 407 Advanced II American Sign Language - Level IV 3
-Anthropology
-(BA)
+A
+nthropology (BA)
 Total Credits: 120
 Summary
 Anthropology is the study of the interaction of human biology and culture. Anthropologists study the human species through the four subdivisions of the discipline: archaeology, biological anthropology, linguistic anthropology, and cultural anthropology. The major provides training in all areas of anthropology for the liberal arts major with an interest in global awareness, cultural diversity, human adaptation, and an understanding of human behavior. Application of the discipline in real-world scenarios is stressed. Students pursuing the BA take a language series and are prepared to pursue anthropology and its application with a more global outlook.
@@ -803,7 +815,7 @@ Accelerated Combined Degree (BA/BS and MS). Students interested in receiving bot
 Anthropology at Minnesota State Mankato, may apply to the Department for admission into the Accelerated Graduate Program. Interested majors may apply upon the completion of 60 credits if they have a minimum
 GPA of 3.0. If accepted, students will work with an advisor to design an accelerated program in which up to 12 credits of 500-level courses can be applied to both their undergraduate and graduate programs. If accepted, students must maintain a minimum of 3.0 GPA overall and a 3.0 in the major to continue in the program. Interested students should contact the
 Department for more information.
-Program Requirements 46 2024-2025 Undergraduate Catalog
+Program Requirements 
 Prerequisites to the Major
 ANTH 101 Introduction to Anthropology 4
 Major Common Core
@@ -822,7 +834,8 @@ Other Graduation Requirements
 Choose 8 credit(s): take one series Language
 Minor
 Required Minor: Yes. Any.
-Anthropology (BS)
+A
+nthropology (BS)
 Total Credits: 120
 Summary
 Anthropology is the study of the origins and diversity of human biology and culture. Anthropologists study the evolution and adaptations of the human species through the four major subdivisions of the discipline: archaeology, biological anthropology, linguistic anthropology, and cultural anthropology. The major provides training in all areas of anthropology for the liberal arts major with an interest in global awareness, cultural diversity, human evolution and adaptation, prehistory, and an understanding of human behavior. Application of the discipline in real-world scenarios is stressed.
@@ -870,7 +883,8 @@ Choose 6 - 10 Credit(s).
 ANTH 102 - 499
 Applied
 Health
-Science (BS) Health Education &
+S
+cience (BS) Health Education &
 Promotion
 Total Credits: 120
 Summary
@@ -954,7 +968,8 @@ Elementary
 Statistics 4
 Applied
 Health
-Science (BS) Pre-Athletic Training
+S
+cience (BS) Pre-Athletic Training
 Total Credits: 120
 Summary
 Designed for students seeking to pursue a graduate degree in athletic training. Admission requirements for graduate degrees in athletic training differ by program. Additional courses may be required. Students who successfully complete all major requirements will be eligible to become a Certified Health Education Specialist®.
@@ -964,7 +979,7 @@ Program Requirements: All required courses require a “C-” or better, except 
 Math/Statistics elective requires a “C” or better.
 Progression Requirement: Students must maintain a G.P.A. of 2.5 or better in the major.
 Applied Health Science Internship Requirements:
-The Health Education and Promotion emphasis internship requires the completion of 450 clock hours at an approved internship site. 48 2024-2025 Undergraduate Catalog
+The Health Education and Promotion emphasis internship requires the completion of 450 clock hours at an approved internship site. 
 Students are encouraged to take no more than 12 credits of coursework, including the 9 credits of HLTH 496 during the internship semester.
 The optional internship for all other emphases requires a minimum of 50 clock hours per credit hour at an approved internship site.
 Some internship sites require a background check prior to acceptance. Students are responsible for the fees associated with the background checks.
@@ -1029,7 +1044,8 @@ Sports
 Medicine 2
 Applied
 Health
-Science (BS) Pre-Healthcare
+S
+cience (BS) Pre-Healthcare
 Administration
 Total Credits: 120
 Summary
@@ -1099,12 +1115,11 @@ HLTH 451 Emotional Health and Stress 3
 HLTH 455 Health and Aging 3
 HLTH 466 Global Health 3
 HLTH 477 Behavior Change Foundations and Strategies 3
-HLTH 496 Internship: Applied Health Science 1-9 50 2024-2025
-Undergraduate
-Catalog
+HLTH 496 Internship: Applied Health Science 1-9 
 Applied
 Health
-Science (BS) Pre-Occupational Therapy
+S
+cience (BS) Pre-Occupational Therapy
 Total Credits: 120
 Summary
 Designed for students seeking to pursue a graduate degree in occupational therapy. Admission requirements for graduate degrees in occupational therapy differ by program. Additional courses may be required. Students who successfully complete all major requirements will be eligible to become a Certified Health Education Specialist®.
@@ -1175,7 +1190,8 @@ Elementary
 Statistics 4
 Applied
 Health
-Science (BS) Public Health
+S
+cience (BS) Public Health
 Total Credits: 120
 Summary
 Designed for students interested in pursuing a career and/or a graduate degree in public health. Potential employment includes community or public health agencies, worksites, healthcare facilities, and non-profit organizations. Students who complete all major requirements are eligible to become a Certified Health Education Specialist®.
@@ -1244,7 +1260,7 @@ HLTH 451 Emotional Health and Stress 3
 HLTH 455 Health and Aging 3
 HLTH 477 Behavior Change Foundations and Strategies 3
 HLTH 496 Internship: Applied Health Science 1-9
-Mathematics/Statistics 52 2024-2025 Undergraduate Catalog
+Mathematics/Statistics 
 Choose 3 - 4 Credit(s). * May take any MATH course 110 or higher
 MATH 110 Perspectives in Mathematics 3
 SOC 202 Introductory Social Statistics 4
@@ -1293,7 +1309,8 @@ HLTH 477 Behavior Change Foundations and Strategies 3
 HLTH 488 Worksite Health Promotion 3
 HLTH 491 Directed Research in Health Science 1-6
 Applied
-Leadership (BS)
+L
+eadership (BS)
 Total Credits: 120
 Summary
 An online major connecting theory with real-world application.
@@ -1311,8 +1328,8 @@ Area of Concentration (choose 7-8 credits) Any discipline 300-499
 Specific courses are in a single discipline arranged with the student’s advisory committee.
 Minor
 No minor is required.
-Art
-(BA)
+A
+rt (BA)
 Total Credits: 120
 Summary
 The Art BA offers a focus in studio art providing a broad foundation of knowledge and skills. Students study several areas of art and art history and specialize in one area for more intensive study. Studio specializations include ceramics, drawing, installation, painting, photography, printmaking, and sculpture.
@@ -1425,7 +1442,7 @@ Foundation Courses Select six (6) courses from at least five (5) areas for a tot
 Graphic Design Area
 Choose 0 - 6 Credit(s)
 ART 202 Introduction to Digital Media 3
-ART 220 Graphic Design I 3 54 2024-2025 Undergraduate Catalog
+ART 220 Graphic Design I 3 
 Drawing Area
 Choose 0 - 6 Credit(s)
 ART 210 Drawing 3
@@ -1597,7 +1614,9 @@ ART 436 Web Design II 3
 ART 444 Typography III 3
 ART 497 Internship 1-6
 ART 499 Individual Study 1-6
-Art History (BA)
+A
+rt 
+History (BA)
 Total Credits: 120
 Summary
 Art history majors learn to look carefully, analyze and evaluate information, and produce research-informed narratives that clarify why art matters. To this end, students learn about major movements, artists, and artworks in relation to their sociocultural contexts. Courses provide a chronological overview of the history of world art, in-depth study through practicing critical analysis and research writing, and opportunities for obtaining real-world experiences, such as internship and study abroad experiences as well as a Museum Studies Certificate.
@@ -1614,7 +1633,7 @@ ART 466 Realism to Postmodernism 3
 ART 496 Art History Senior Thesis 1
 Renaissance and Baroque
 Choose 3 Credit(s).
-ART 462 Renaissance Art 3 56 2024-2025 Undergraduate Catalog
+ART 462 Renaissance Art 3 
 ART 463 Mannerism to Romanticism 3
 Non-Western
 Choose 3 Credit(s).
@@ -1695,7 +1714,9 @@ Unrestricted Electives
 Choose 12 Credit(s).
 Select Art Studio courses in consultation with an art advisor.
 ART 103 - 499 Select from Art Studio courses
-Art Teaching (BS)
+A
+rt 
+Teaching (BS)
 Total Credits: 120
 Summary
 Art Education is devoted to the training of qualified and motivated artists who are also Kindergarten through high school educators. We are also devoted to the development of concepts, attitudes, and skills in the visual arts within a broad university curriculum of liberal arts orientation.
@@ -1822,7 +1843,7 @@ HP 316 Tennis Theory 1
 HP 317 Golf Coaching Theory 1
 HP 318 Soccer Theory 1
 HP 319 Strength and Conditioning Theory 1
-Practicum 58 2024-2025 Undergraduate Catalog
+Practicum 
 Choose 1 - 2 Credit(s). * Total of 4 credits required between Coaching Theory and Practicum.
 HP 482 Coaching Practicum 1-2
 Athletic Training (Pre-Athletic Training)
@@ -1869,7 +1890,8 @@ Choose 3 additional credits of AE/
 MFE courses
 Automotive
 Engineering
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 128
 Summary
 The Automotive Engineering Technology degree prepares graduates for careers in product research, design and development, manufacturing, and technical sales in the original equipment and aftermarket industries.
@@ -1942,7 +1964,8 @@ AET 262 Automotive Computers and Electronics 4
 Electives
 Choose 3 additional credits of AET/
 MET courses
-Aviation (BS) Aeronautics
+A
+viation (BS) Aeronautics
 Total Credits: 120
 Summary
 Our goal is to educate students to become professionals responsible for the safe and efficient design, management, and operation of aviation systems. The program combines a substantive university education with professional flight, UAS, and management components to graduate well prepared aviation professionals. Acquisition of airmanship knowledge, skills, and abilities develops professionalism, responsibility, self-reliance, and marketable skills for early career progressions, and provides important experiences which ensure a level of understanding and competency essential to becoming an effective aviation leader.
@@ -1964,13 +1987,14 @@ AVIA 334 Aviation Management 3
 AVIA 432 Aviation Law - General 3
 AVIA 437 Aviation Safety 3
 AVIA 445 Aviation Human Factors 3
-GEOG 217 Weather 4 60 2024-2025 Undergraduate Catalog
+GEOG 217 Weather 4 
 Emphasis Unrestricted Electives
 Note: A plan of study must be completed and approved by the Aviation
 Department for this emphasis. Faculty advising is required.
 Choose 48 Credit(s).
 AVIA 100 - 499
-Aviation (BS) Aviation Management
+A
+viation (BS) Aviation Management
 Total Credits: 120
 Summary
 Our goal is to educate students to become professionals responsible for the safe and efficient design, management, and operation of aviation systems. The program combines a substantive university education with professional flight, UAS, and management components to graduate well prepared aviation professionals. Acquisition of airmanship knowledge, skills, and abilities develops professionalism, responsibility, self-reliance, and marketable skills for early career progressions, and provides important experiences which ensure a level of understanding and competency essential to becoming an effective aviation leader.
@@ -2014,7 +2038,8 @@ Operations 3
 AVIA 443
 Airline
 Dispatch 3
-Aviation (BS) Professional Flight
+A
+viation (BS) Professional Flight
 Total Credits: 120
 Summary
 Our goal is to educate students to become professionals responsible for the safe and efficient design, management, and operation of aviation systems. The program combines a substantive university education with professional flight, UAS, and management components to graduate well prepared aviation professionals. Acquisition of airmanship knowledge, skills, and abilities develops professionalism, responsibility, self-reliance, and marketable skills for early career progressions, and provides important experiences which ensure a level of understanding and competency essential to becoming an effective aviation leader.
@@ -2126,7 +2151,8 @@ Course 3
 AVIA 455
 Aircraft
 Performance 3
-Aviation (BS) Unmanned Aircraft Systems
+A
+viation (BS) Unmanned Aircraft Systems
 Total Credits: 120
 Summary
 Unmanned Aircraft Systems relies on a combination of professional flight courses sufficient to train students with a thorough understanding of manned aircraft systems, instrument operations, and a foundation in flight operations sufficient to introduce students to National Airspace
@@ -2180,11 +2206,11 @@ AVIA 458 Aeromedical Factors 3
 GEOG 473 Intermediate GIS 4
 GEOG 475 Open-Source GIS 4
 GEOG 485 GIS Programming 4
-Biochemistry
-(BA)
+B
+iochemistry (BA)
 Total Credits: 120
 Summary
-The Biochemistry BA is designed to give students a strong foundation in biology, chemistry and biochemistry. The curriculum is augmented with liberal arts courses to add a broader perspective and give greater versatility to graduates. Students are well prepared to pursue advanced study in professional health care programs. Many of our students pursue advanced degrees in medical schools, physician assistant programs, pharmacy schools and dental schools. Students graduating are well 62 2024-2025 Undergraduate Catalog prepared to pursue laboratory positions in health care or agri-business companies or sales/customer service positions at pharmaceutical or medical device companies.
+The Biochemistry BA is designed to give students a strong foundation in biology, chemistry and biochemistry. The curriculum is augmented with liberal arts courses to add a broader perspective and give greater versatility to graduates. Students are well prepared to pursue advanced study in professional health care programs. Many of our students pursue advanced degrees in medical schools, physician assistant programs, pharmacy schools and dental schools. Students graduating are well  prepared to pursue laboratory positions in health care or agri-business companies or sales/customer service positions at pharmaceutical or medical device companies.
 Policies
 First year of coursework for Biochemistry majors should include two semesters of chemistry (CHEM 201, CHEM 202), MATH and at least one semester of Biology (BIOL 105). Organic Chemistry should be taken during the second year.
 Admission to Major. No formal Admission to Major paperwork is required for Biochemistry. A student can enroll in 300-and 400-level courses after they have declared biochemistry as a first major and successfully completed any pre-requisite paperwork. Students should also have an assigned advisor in the department with whom they have discussed their program.
@@ -2243,7 +2269,8 @@ Choose 8 credit(s): take one series
 Language
 Minor
 Minor is not required
-Biochemistry (BS)
+B
+iochemistry (BS)
 Total Credits: 120
 Summary
 Students graduating with a BS in biochemistry have an additional opportunity to have their degree certified by the ASBMB if they chose. Many graduates pursue post-baccalaureate programs including biochemistry, medicine, pharmacy and dentistry.
@@ -2309,7 +2336,8 @@ BIOL 300 - 499
 CHEM 300 - 499
 Minor
 Minor is not required.
-Biology (BS) Biomedical and Cellular Biology
+B
+iology (BS) Biomedical and Cellular Biology
 Total Credits: 120
 Summary
 A critical understanding and awareness of cellular and molecular physiology is necessary for future leaders pursuing careers in healthcare, translational, or essential scientific discovery. The advent of cellular and genetic modulation, precision therapeutics, modern microbiology, and bioinformatics has accelerated molecular science, and graduates require an advanced baseline from which to grow. Those prepared to collaborate, interpret/visualize data, and create new ways forward hold the keys to our future.
@@ -2361,7 +2389,7 @@ BIOL 423 Comparative Vertebrate Anatomy 4
 BIOL 424 Developmental Biology 3
 BIOL 425 Developmental Biology Lab 1
 BIOL 430 Hematology/Introduction to Immunology 4
-BIOL 433 Cardiovascular Physiology 3 64 2024-2025 Undergraduate Catalog
+BIOL 433 Cardiovascular Physiology 3 
 BIOL 434 Animal Physiology 4
 BIOL 435 Histology 4
 BIOL 436 Animal Behavior 4
@@ -2413,7 +2441,8 @@ CHEM 467
 Biochemistry of
 Cancer and
 Therapeutics 3
-Biology (BS) Organismal Biology and Ecology
+B
+iology (BS) Organismal Biology and Ecology
 Total Credits: 120
 Summary
 The Biology BS: Organismal and Ecology emphasis is for students fascinated with the diversity of living things and the biology of populations, communities, and ecosystems. An in-depth understanding of these topics is critical given the changing nature of our planet.
@@ -2548,7 +2577,8 @@ Human
 Anatomy 4
 BIOL 270
 Microbiology 4
-Biotechnology (BS)
+B
+iotechnology (BS)
 Total Credits: 120
 Summary
 Required General Education
@@ -2591,7 +2621,7 @@ Total Credits: 21
 Summary
 Policies
 Admissions Requirements • Admission does not require a minimum GPA. • Students must be admitted to a major before they can take 300/400 level courses. • College of Business Majors are not eligible for the Business
-Administration minor. 66 2024-2025 Undergraduate Catalog
+Administration minor. 
 Graduation Requirements • To meet graduation requirements, students pursuing a Business
 Administration minor must earn a minimum grade point average of 2.0 (“C”) in the total of all (and only) courses taken to complete the minor. • Transfer students pursuing a minor in the College of Business must complete at least 50% (one-half) of their major or minor coursework at Minnesota State Mankato.
 Program Requirements
@@ -2667,8 +2697,9 @@ MGMT 490 Business Professionals 3
 MGMT 492 BBA Capstone 3
 MRKT 210 Principles of Marketing 3
 MRKT 318 Integrated Marketing Communications 3
-Business Analytics
-(CERT)
+B
+usiness 
+Analytics (CERT)
 Total Credits: 17
 Summary
 Business Analytics is the application of statistical techniques using software to gain insights on business data for the purpose of making strategic business decisions. The focus is on helping students interested in business learn the basics of predictive and prescriptive techniques, using popular business visualization software such as Tableau, and analyze data using programming languages such as R.
@@ -2694,8 +2725,9 @@ Economics/Statistics
 Choose 4 Credit(s).
 ECON 207 Business Statistics 4
 STAT 154 Elementary Statistics 4
-Business Law
-(CERT)
+B
+usiness 
+Law (CERT)
 Total Credits: 18
 Summary
 Policies
@@ -2757,12 +2789,14 @@ BLAW 492 Study Tour 1-3
 BLAW 497 Internship 1-8
 Chemistry -
 ACS
-Approved (BS)
+A
+pproved (BS)
 Total Credits: 120
 Summary
 The
 Bachelor of
-Science (BS) chemistry curriculum is recognized by the American Chemical Society (ACS). This curriculum meets ACS standards for depth and rigor of study in the various sub-disciplines of chemistry. Students graduating with a Chemistry BS have numerous career options available. Our alumni work as chemists in many small companies throughout the region as well as in Fortune 500 companies and municipality/government positions. Many graduates pursue post-baccalaureate programs including chemistry, medicine, pharmacy and law.
+S
+cience (BS) chemistry curriculum is recognized by the American Chemical Society (ACS). This curriculum meets ACS standards for depth and rigor of study in the various sub-disciplines of chemistry. Students graduating with a Chemistry BS have numerous career options available. Our alumni work as chemists in many small companies throughout the region as well as in Fortune 500 companies and municipality/government positions. Many graduates pursue post-baccalaureate programs including chemistry, medicine, pharmacy and law.
 Policies
 Admission to Major. No formal Admission to Major paperwork is required for Chemistry. Students may enroll in 300- and 400-level courses after they have declared Chemistry as a first major and successfully completed any pre-requisite courses. Students should also have an assigned advisor in the department with whom they discuss their program.
 GPA Policy.
@@ -2770,7 +2804,7 @@ Students obtaining a major or minor in chemistry must maintain an overall GPA of
 All majors cannot have more than 4 credits of “D” (1.0) work in chemistry courses.
 P/N Grading Policy
 Courses leading to a major or minor in chemistry or biochemistry may not be taken on a P/N basis except where P/N grading is mandatory.
-For students who choose to obtain a BS or a BA in Chemistry, CHEM 489 must be taken at Minnesota State Mankato. This course will not be substituted. 68 2024-2025 Undergraduate Catalog
+For students who choose to obtain a BS or a BA in Chemistry, CHEM 489 must be taken at Minnesota State Mankato. This course will not be substituted. 
 Students who use CHEM 498 (Undergraduate Research) as elective credits towards their Chemistry degree must submit a written research report to their faculty mentor upon completion of CHEM 498.
 The first year of coursework for all chemistry majors should include general chemistry and mathematics (selection of courses depends on mathematics background). The second year should include organic chemistry, analytical chemistry, additional mathematics and physics.
 For BS chemistry majors, it is important that the calculus and physics sequences be completed early in the program since they are prerequisites for physical chemistry. Either physical chemistry or instrumental analysis should be taken during the third year. Other upper division courses in chemistry and biochemistry can be taken in either the third or fourth years. Participation in senior capstone is required of all BA/BS majors in their last semester. The required coursework in mathematics may be credited towards a major or minor so it is often desirable and convenient to choose a joint major or minor in mathematics.
@@ -2816,8 +2850,8 @@ MATH 321 Ordinary Differential Equations 4
 Major Unrestricted Electives
 Choose 12 credits and at least 3 different courses from the 300-400-level
 CHEM courses other than CHEM 479. No CHEM courses can be double-counted in the degree.
-Chemistry
-(BA)
+C
+hemistry (BA)
 Total Credits: 120
 Summary
 The Chemistry BA is designed to give students a strong foundation in each sub-discipline of chemistry. This curriculum is augmented with more liberal arts courses to add a broader perspective to the baccalaureate and give greater versatility to the graduate. The Chemistry
@@ -2890,7 +2924,8 @@ Choose a minimum of 4 credits from the 300-400 level CHEM courses except CHEM 47
 A minimum of 4 credits of chemistry courses must be taken at Minnesota
 State University Mankato for the minor.
 Chemistry
-Teaching (BS)
+T
+eaching (BS)
 Total Credits: 120
 Summary
 Policies
@@ -2929,7 +2964,7 @@ CHEM 489 Senior Capstone 1
 PHYS 211 Principles of Physics I 4
 PHYS 212 Principles of Physics II 4 * PHYS 221, 222, PHYS 223, 232, and PHYS 233 may substitute for PHYS 211 or PHYS 212. Consult with your advisor.
 Other Graduation Requirements
-See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses. 70 2024-2025 Undergraduate Catalog
+See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses. 
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 Child Development and Family Studies Minor
 Total Credits: 18
@@ -2960,8 +2995,9 @@ FCS 482 Family Life Education 3
 FCS 488 Parenting Education 3
 FCS 496 Selected Topics: CDFS 2-3
 FCS 497 Internship 1-6
-Child, Youth, and Family Services
-(CERT)
+C
+hild, 
+Youth, and Family Services (CERT)
 Total Credits: 18
 Summary
 The Child, Youth and Family Services (CYF) Certificate prepares students for employment in a variety of in-demand helping professions. Public and private organizations are seeking graduates with knowledge and skills in childcare, youth leadership, family programming, and adult care. Our highly trained faculty and instructors provide students with a flexible online, culturally informed learner-focused education. Students take a variety of courses focusing on development through the lifespan, applicable theory, professional presentations and writing. No prerequisite knowledge needed. Students may be new to college, looking to enhance prior knowledge, and/or develop a resume.
@@ -3124,12 +3160,11 @@ GEOL 450 Hydrogeology 3
 ME 300 - 489
 URBS 437 Urban Heritage Preservation 3
 URBS 438 Historic Preservation: Policy and Field Methods 3
-URBS 471 Urban Transportation 3 72 2024-2025
-Undergraduate
-Catalog
+URBS 471 Urban Transportation 3 
 Clinical and
 Diagnostic
-Sciences (BS) Cytotechnology
+S
+ciences (BS) Cytotechnology
 Total Credits: 120
 Summary
 Cytotechnology involves the microscopic study of cells for evidence of disease and cancer. Cytotechnologists are trained to accurately identify precancerous, malignant, and infectious conditions using cytological techniques. The “Pap test” (an evaluation of cells from the uterine cervix) is the best known test in this field. The four-year curriculum consists of three years spent at the university completing the required courses and the fourth year is a 32 credit internship spent in professional education.
@@ -3184,7 +3219,8 @@ BIOL 495 Cytotechnology Clinical Internship III 1-12
 BIOL 496 Cytotechnology Clinical Internship IV 1-12
 Clinical and
 Diagnostic
-Sciences (BS) Medical
+S
+ciences (BS) Medical
 Laboratory Science
 Total Credits: 120
 Summary
@@ -3270,7 +3306,8 @@ Calculus
 I 4
 Clinical and
 Diagnostic
-Sciences (BS) Nuclear Medicine
+S
+ciences (BS) Nuclear Medicine
 Technology
 Total Credits: 120
 Summary
@@ -3293,7 +3330,7 @@ Required General Education
 BIOL 105 General Biology I 4
 CHEM 201 General Chemistry I 5
 MATH 121 Calculus I 4
-PHYS 211 Principles of Physics I 4 74 2024-2025 Undergraduate Catalog
+PHYS 211 Principles of Physics I 4 
 Major Common Core
 BIOL 106 General Biology II 4
 BIOL 211 Genetics 4
@@ -3324,7 +3361,8 @@ Technology
 Internship
 II 17
 Cognitive
-Science (BS) Biology
+S
+cience (BS) Biology
 Total Credits: 120
 Summary
 Cognitive Science is an interdisciplinary inquiry concerned with understanding the nature and development of such intelligent capacities as perception, language, reasoning, learning and problem-solving, whether these capacities are realized in biological or artificial systems.
@@ -3403,7 +3441,8 @@ BIOL 479
 Molecular
 Biology 4
 Cognitive
-Science (BS) Computer Science
+S
+cience (BS) Computer Science
 Total Credits: 120
 Summary
 Cognitive Science is an interdisciplinary inquiry concerned with understanding the nature and development of such intelligent capacities as perception, language, reasoning, learning and problemsolving, whether these capacities are realized in biological or artificial systems. The computer science emphasis uses a computational lens for understanding cognition supported by the fields of psychology, philosophy and biology.
@@ -3477,7 +3516,8 @@ Human
 Computer
 Interaction 2
 Cognitive
-Science (BS) Philosophy
+S
+cience (BS) Philosophy
 Total Credits: 120
 Summary
 Cognitive Science is an interdisciplinary inquiry concerned with understanding the nature and development of such intelligent capacities as perception, language, reasoning, learning and problem-solving, whether these capacities are realized in biological or artificial systems.
@@ -3537,7 +3577,7 @@ PHIL 410 Philosophy of Language 3
 PHIL 474 Philosophy of the Mind 3
 PHIL 476 Philosophy of Perception 3
 PHIL 477 Animal Minds 3
-PHIL 480 Philosophy of Science 3 76 2024-2025 Undergraduate Catalog
+PHIL 480 Philosophy of Science 3 
 PHIL 481 Philosophy of Biology 3
 Choose 6 Credit(s). Courses may not double count in the major
 PHIL 311 Symbolic Logic 3
@@ -3563,7 +3603,8 @@ PHIL 481
 Philosophy of
 Biology 3
 Cognitive
-Science (BS) Psychology
+S
+cience (BS) Psychology
 Total Credits: 120
 Summary
 Cognitive Science is an interdisciplinary inquiry concerned with understanding the nature and development of such intelligent capacities as perception, language, reasoning, learning and problem-solving, whether these capacities are realized in biological or artificial systems.
@@ -3640,7 +3681,8 @@ Advanced
 Cognitive
 Psychology 4
 Communication and
-Media (BS)
+M
+edia (BS)
 Total Credits: 120
 Summary
 Communication and Media prepares students to be engaged, knowledgeable, and ethical global citizens, advocates, and storytellers.
@@ -3685,7 +3727,8 @@ Electives
 Choose 8 Credit(s). Choose upper-division courses in consultation with your advisor.
 COMM 300 - 499
 Communication Arts and Literature -
-Education (BS)
+E
+ducation (BS)
 Total Credits: 120
 Summary
 Students are prepared to teach English and Speech/Communication in grades 5-12. Students complete courses from English, Communication
@@ -3738,12 +3781,13 @@ ENG 463 Adolescent Literature 3
 ENG 464 Teaching Literature in the Middle School 3
 Aesthetic Response Choose 4 Credit(s).
 COMM 310 Performance of Literature 4
-CW 242W Introduction To Creative Writing 4 78 2024-2025 Undergraduate Catalog
+CW 242W Introduction To Creative Writing 4 
 Other Graduation Requirements
 See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses.
 Communication
 Sciences and
-Disorders (BS)
+D
+isorders (BS)
 Total Credits: 120
 Summary
 Policies
@@ -3843,8 +3887,9 @@ CDIS 409W Literacy Foundations and Disorders for SpeechLanguage Pathologists 3
 CDIS 445 Grand Rounds-Foundation 1
 CDIS 446 Grand Rounds-Presentation 2
 CDIS 477 Interprofessional Practices 1
-Community Health Worker
-(CERT)
+C
+ommunity 
+Health Worker (CERT)
 Total Credits: 16
 Summary
 A community health worker (CHW) works directly with communities.
@@ -3863,7 +3908,9 @@ HLTH 202 Health Communication, Teaching, and Capacity Building 3
 HLTH 203 Documentation, Legal, and Ethical Issues in Community
 Health Work 3
 HLTH 296 Internship: Community Health Worker 1-2 *Certificate program requires 2 credits of internship.
-Computer Application Development (BAS)
+C
+omputer 
+Application Development (BAS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -3901,7 +3948,7 @@ Total Credits: 128
 Summary
 Policies
 Admission to Major. Admission to the college is necessary before enrolling in 300- and 400-level courses. Minimum college requirements are: • A minimum of 32 earned semester credit hours. • A minimum cumulative GPA of 2.00 (“C”). • Please contact the department for application procedures. • During the spring semester of the sophomore year, students should submit an application form for admission to the Computer
-Engineering program. Admission to the program is selective and, following applications to the department, subject to approval from the department chair. The department makes a special effort to accommodate transfer students. Only students admitted to the program are permitted to enroll in upper-division electrical engineering courses. No transfer credits are allowed for upperdivision engineering courses except by department chair review and approval. • Before being accepted into the program and admitted to 300-level engineering courses (typically in the fall semester), a student must complete the following courses including all necessary prerequisites: • General Physics I and II (calculus-based) (8 credits) • Calculus I, Calculus II and Differential Equations (12 credits) • Introduction to Electrical/Computer Engineering I and II (6 credits) • Circuit Analysis I and II (including lab) (7 credits) • English Composition (4 credits) • Technical Communication (4 credits) • Microprocessor course and lab (4 credits) • A cumulative GPA of 2.5 for all science and math courses must have been achieved for program admittance. Grades must be 1.65 (“C-”) or better for courses to be accepted. 80 2024-2025 Undergraduate Catalog
+Engineering program. Admission to the program is selective and, following applications to the department, subject to approval from the department chair. The department makes a special effort to accommodate transfer students. Only students admitted to the program are permitted to enroll in upper-division electrical engineering courses. No transfer credits are allowed for upperdivision engineering courses except by department chair review and approval. • Before being accepted into the program and admitted to 300-level engineering courses (typically in the fall semester), a student must complete the following courses including all necessary prerequisites: • General Physics I and II (calculus-based) (8 credits) • Calculus I, Calculus II and Differential Equations (12 credits) • Introduction to Electrical/Computer Engineering I and II (6 credits) • Circuit Analysis I and II (including lab) (7 credits) • English Composition (4 credits) • Technical Communication (4 credits) • Microprocessor course and lab (4 credits) • A cumulative GPA of 2.5 for all science and math courses must have been achieved for program admittance. Grades must be 1.65 (“C-”) or better for courses to be accepted. 
 Completion Standards
 GPA Policy.
 Students graduating with a degree in Computer Engineering must have: • completed a minimum of 20 semester credit hours of upper division
@@ -3989,7 +4036,8 @@ Minor
 No required minor.
 Computer
 Engineering
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 128
 Summary
 Policies
@@ -4073,9 +4121,7 @@ Choose 12 Credit(s).
 CIS 223 Algorithms 4
 CIS 224 Computer Architecture 4
 CIS 340 Introduction to Database Systems 4
-CIS 360 Introduction to Networking 4 82 2024-2025
-Undergraduate
-Catalog
+CIS 360 Introduction to Networking 4 
 CIS 380
 Systems
 Analysis and
@@ -4087,7 +4133,8 @@ Design and
 Development 4
 Computer
 Information
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 120
 Summary
 Computer Information Technology (CIT) focuses on meeting the needs of users within an organizational and societal context through the selection, creation, application, integration and administration of computing technologies. The Bachelor of Science in CIT provides graduates with the skills and knowledge to undertake a successful information career in industry, business, education, or government.
@@ -4120,7 +4167,8 @@ CIS 400 - 499
 Minor
 Required Minor: Yes. Any but Computer Science.
 Computer
-Science (BS)
+S
+cience (BS)
 Total Credits: 120
 Summary
 The Computer Science major will prepare graduates for positions in computer-related fields and for graduate study. Computer science as a field spans a wide range of topics from theoretical and algorithmic foundations to cutting-edge developments in operating system design and implementation, machine learning, and intelligent systems.
@@ -4258,7 +4306,8 @@ Systems
 Analysis and
 Design 4
 Construction
-Management (BS)
+M
+anagement (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -4306,7 +4355,7 @@ Minimum of 3 credits required for CM 497
 Major Restricted Electives
 Select one of two classes Choose 3 Credit(s).
 FINA 362 Business Finance 3
-MRKT 210 Principles of Marketing 3 84 2024-2025 Undergraduate Catalog
+MRKT 210 Principles of Marketing 3 
 Consumer Studies Minor
 Total Credits: 18
 Summary
@@ -4322,7 +4371,8 @@ Electives Choose 3 Credit(s).
 FCS 496 Selected Topics: CDFS 2-3
 FCS 497 Internship 1-6
 FCS 499 Individual Study 1-6
-Corrections (BS)
+C
+orrections (BS)
 Total Credits: 120
 Summary
 Corrections prepares students for careers in criminal justice with a special emphasis on addressing the needs of persons convicted of crimes, crime victims, and at-risk populations. Through both academic work and experiential learning, students will acquire the knowledge, skills, and experience necessary to work with correctional clients in a variety of settings, both institutional (jails, prisons, treatment centers) and community (probation, parole, supervised release, juvenile diversion).
@@ -4437,8 +4487,9 @@ CJ 401 Advanced Crime Theory & Prevention 3
 Restricted Electives
 Choose 12 Credit(s).
 CORR 300 - 499
-Creative Writing
-(BA)
+C
+reative 
+Writing (BA)
 Total Credits: 120
 Summary
 Policies
@@ -4495,11 +4546,12 @@ CW 448 Contemporary Writers 4
 CW 449 Topics in Creative Writing Form and Technique 2-4
 CW 494 Special Topics Workshop 2-4
 Criminal
-Justice (BS)
+J
+ustice (BS)
 Total Credits: 120
 Summary
 The Criminal Justice program is for students who want to serve in one of the governmental or social service organizations tasked with enforcing laws and serving communities by responding to and preventing crime.
-The program has a flexible major that prepares students for professional 86 2024-2025 Undergraduate Catalog work in criminal justice and related fields by understanding crime, criminal justice processes, and the implementation of crime prevention in multicultural and diverse communities.
+The program has a flexible major that prepares students for professional  work in criminal justice and related fields by understanding crime, criminal justice processes, and the implementation of crime prevention in multicultural and diverse communities.
 Policies
 Admission requirements are based on university policy.
 GPA Policy: This program follows the university policy on
@@ -4607,8 +4659,9 @@ CJ 231 Criminal Law & Procedures 4
 Restricted Electives
 Choose 9 Credit(s). At least (6) six credits must be at the 300-400 level
 CJ 100 - 499
-Critical Thinking
-(CERT)
+C
+ritical 
+Thinking (CERT)
 Total Credits: 12
 Summary
 The certificate may not be eligible for federal financial aid. Speak with the
@@ -4713,7 +4766,7 @@ ENG 211W Literature and Human Diversity 4
 ENG 212W World Literature 4
 ENG 213W Literature and Ethics 4
 ENG 435 The World Novel 2-4
-ENG 436W Native American Literature 4 88 2024-2025 Undergraduate Catalog
+ENG 436W Native American Literature 4 
 ENG 437W Latina/o Literature 2-4
 ENG 438W African American Literature 4
 ENG 441 Literary Theory and Criticism 4
@@ -4775,8 +4828,8 @@ PHIL 323W Philosophy of Economics 3
 PHIL 440 Philosophy of Law 3
 URBS 100 Introduction to the City 3
 URBS 150 Sustainable Communities 3
-Dance
-(BA)
+D
+ance (BA)
 Total Credits: 120
 Summary
 Learn the depth and breadth of dance as you practice this art form in multiple ways. Balance your artistic experiences with practical applications to enter the dance world after graduation. Be ready for a lifetime in dance to teach, perform, choreograph, write, and produce.
@@ -4913,7 +4966,8 @@ DANC 333
 Dance
 Partnering for
 Theatre 1
-Dance (BS)
+D
+ance (BS)
 Total Credits: 120
 Summary
 Learn the depth and breadth of dance as you practice this art form in multiple ways. Balance your artistic experiences with practical applications to enter the dance world after graduation. Be ready for a lifetime in dance to teach, perform, choreograph, write, and produce.
@@ -4954,14 +5008,15 @@ Minor
 Required Minor: Yes. Any.
 Dance Team Coaching: Combine the Dance BS with an Athletic
 Coaching minor.
-Dance (BS) Dance Therapy (Pre-Professional)
+D
+ance (BS) Dance Therapy (Pre-Professional)
 Total Credits: 120
 Summary
 Dance/Movement Therapy (D/MT) prepares students to pursue advanced study at the graduate level. D/MTs work in a variety of public and private settings, and with a variety of populations, including persons with posttrauma brain injuries, eating disorders, children with autism, and the treatment and prevention of behavioral disorders.
 Program Requirements
 Required General Education
 DANC 120W Introduction to Dance 3
-THEA 101 Acting for Everyone 3 90 2024-2025 Undergraduate Catalog
+THEA 101 Acting for Everyone 3 
 Major Common Core
 DANC 128 Contemporary Dance I 2
 DANC 225 Worlds of Dance 3
@@ -4993,7 +5048,8 @@ Choose 11 Credit(s). * Consult with advisor on course selections.
 DANC 100 - 499
 Minor
 Minor in Psychology is required for the emphasis.
-Dance (BS) Private Studio Teaching
+D
+ance (BS) Private Studio Teaching
 Total Credits: 120
 Summary
 Private Studio Teaching prepares students to teach, own, and manage their own studios. Students study dance education history, dance methods, and build an age-appropriate curricula. Students also develop practical knowledge of website building, advertising, and other business-related skills.
@@ -5055,8 +5111,9 @@ DANC 323 Jazz Dance III 2
 DANC 326 Ballet III 2
 DANC 327 Tap Dance III 2
 DANC 328 Contemporary Dance III 2
-Database Technologies
-(CERT)
+D
+atabase 
+Technologies (CERT)
 Total Credits: 12
 Summary
 The Database Technologies undergraduate certificate provides students with the necessary knowledge to apply information technology principles and theory so they are able to address real world business and organizational challenges and opportunities. This certificate focuses on planning, designing, programming and developing secure databases, and the challenges and specific issues in maintaining, managing and securing databases. Students are introduced to the security challenges and threats in database systems and are provided an understanding of the state-ofthe art security technologies, and data recovery strategies.
@@ -5091,7 +5148,8 @@ CIS 444
 Data
 Analytics 4
 Dental
-Hygiene (BS)
+H
+ygiene (BS)
 Total Credits: 120
 Summary
 The dental hygiene curriculum provides opportunities for the student to develop a sound clinical and theoretical foundation for the practice of dental hygiene. A graduate is prepared to fulfill the dental hygiene roles as clinician, corporate, public health, researcher, educator, administrator, and entrepreneur as put forth by the American Dental
@@ -5129,7 +5187,7 @@ Program Requirements
 Required General Education
 Four required general education courses must be completed before applying to the major. The fifth course must be completed before starting the Major Common Core courses in the program.
 ENG 101 Foundations of Writing & Rhetoric 4
-PSYC 101 Introduction to Psychological Science 4 92 2024-2025 Undergraduate Catalog
+PSYC 101 Introduction to Psychological Science 4 
 Sociology Choose 4 Credit(s).
 SOC 101 Introduction to Sociology 4
 SOC 150 Social Problems 4
@@ -5206,7 +5264,8 @@ None
 Dental
 Hygiene
 Post
-Licensure (BS)
+L
+icensure (BS)
 Total Credits: 120
 Summary
 A program for licensed dental hygienists or students currently enrolled in a 2-year degree dental hygiene program in order to earn their bachelor’s degree. All dental hygiene course credits from a program accredited by the American Dental Association (ADA) Commission on Dental
@@ -5280,7 +5339,8 @@ Individuals with
 Exceptional
 Needs 3
 Earth
-Science (BS)
+S
+cience (BS)
 Total Credits: 120
 Summary
 Policies
@@ -5304,7 +5364,7 @@ Geog 480 and Geog 440 can be counted with prior approval.
 ANTH 210 Introduction to Archaeology 4
 ANTH 331 Environmental Anthropology 4
 ANTH 417 Quaternary Environments and Climatic Change 4
-ANTH 418 Agricultural Systems and Environmental Change 4 94 2024-2025 Undergraduate Catalog
+ANTH 418 Agricultural Systems and Environmental Change 4 
 AST 125 Observational Astronomy 3
 BIOL 402 Stream Ecology 4
 BIOL 404 Wetlands 4
@@ -5355,7 +5415,9 @@ Choose 3 Credit(s).
 AST 102 Introduction to the Planets 3
 GEOG 410 Climatic Environments 3
 GEOG 420 Conservation of Natural Resources 3
-Earth Science Teaching (5-12) (BS)
+E
+arth 
+Science Teaching (5-12) (BS)
 Total Credits: 120
 Summary
 Policies
@@ -5401,8 +5463,8 @@ GEOL 499 Individual Study 1-5
 Other Graduation Requirements
 See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses.
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
-Economics
-(BA)
+E
+conomics (BA)
 Total Credits: 120
 Summary
 Program Requirements
@@ -5467,7 +5529,8 @@ MATH 354 Concepts of Probability & Statistics 4
 MATH 417 Real Analysis I 4
 Minor
 Required Minor: None.
-Economics (BS)
+E
+conomics (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -5529,7 +5592,7 @@ ECON 472 Industrial Organization 3
 Financial Economics
 BLAW 455 Legal Aspects of Banking and Finance 3
 ECON 305 Money and Banking 3
-ECON 405 Central Banking 3 96 2024-2025 Undergraduate Catalog
+ECON 405 Central Banking 3 
 ECON 420 International Economics 3
 ECON 463 Applied Econometrics of Financial Markets 3
 FINA 464 Financial Institutions and Markets 3
@@ -5661,7 +5724,8 @@ Minor
 No minor or other major accepted toward the degree.
 Electronic
 Engineering
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 128
 Summary
 Policies
@@ -5687,7 +5751,7 @@ All international students wishing to have transfer credits granted from non-U.S
 Testing for course credit will be available via prior application made with the program coordinator. Students may not apply for credit by examination for an EET course in which they were previously enrolled at
 Minnesota State Mankato or for any EET course above EET 223.
 Grades must be 1.65 “C-” or better for courses taken at Minnesota State
-Mankato to be accepted. 98 2024-2025 Undergraduate Catalog
+Mankato to be accepted. 
 Program Requirements
 Required General Education
 Students in this degree program must complete 21 additional general education course credit hours to meet university general education and diverse cultures requirements.
@@ -5788,7 +5852,8 @@ Electrical
 Power
 Systems 4
 Elementary
-Education (BS)
+E
+ducation (BS)
 Total Credits: 120
 Summary
 The Elementary Education program strives to prepare elementary teacher candidates for twenty-first century schools. Students in the program develop necessary skills, knowledge and dispositions to create socially just classrooms for all learners. A key part of the Elementary
@@ -5862,7 +5927,7 @@ ELE 421 Integrating Critical Literacies to Promote Equity Across the
 Elem Curriculu 4
 ELE 422 Mathematics Teaching and Learning for the Diverse Elementary Classroom 4
 ELE 423 Science Teaching and Learning for the Diverse Elementary
-Classroom 4 100 2024-2025 Undergraduate Catalog
+Classroom 4 
 Block Three
 ELE 430W Integrating Arts & Physical Health Across the Elementary
 Curriculum 4
@@ -5876,8 +5941,9 @@ ELE 470 Field Experience in STEM 4
 Block Four
 Student Teaching
 ELE 440 Student Teaching 12
-Elementary Education STEM
-(CERT)
+E
+lementary 
+Education STEM (CERT)
 Total Credits: 20
 Summary
 Program Requirements
@@ -5952,8 +6018,9 @@ ENG 435 The World Novel 2-4
 Unrestricted Electives
 Choose 8 credits of literature coursework at the 300- and 400-level.
 Courses may not double count from other English department majors or minors.
-English Studies
-(BA)
+E
+nglish 
+Studies (BA)
 Total Credits: 120
 Summary
 The major provides students with a foundation in English as an academic subject area from across all subfields represented in the department.
@@ -6011,8 +6078,9 @@ ENG 474W Research and Writing Technical Reports 4
 ENG 483 Writing About Health and Medicine 4
 ENG 484 Teaching Grammar and Vocabulary to English Learners 4
 ENG 487 Teaching Reading and Writing to English Learners 4
-Entrepreneurship and Innovation
-(CERT)
+E
+ntrepreneurship 
+and Innovation (CERT)
 Total Credits: 16
 Summary
 Entrepreneurship and Innovation is designed to expose, engage, and support students in thinking and experiencing the processes, challenges, and opportunities associated with the interdisciplinary nature of beginning a new venture.
@@ -6020,7 +6088,7 @@ Policies
 Admissions
 Certificate is open to all. Students who are Non-business majors or those not seeking a degree may take up to 24 credits in the College of Business.
 Graduation Requirements
-Students must earn a minimum 2.0 GPA in all classes in the certificate. 102 2024-2025 Undergraduate Catalog
+Students must earn a minimum 2.0 GPA in all classes in the certificate. 
 Program Requirements
 Major Common Core
 MGMT 332 Creativity and Innovation 3
@@ -6049,8 +6117,9 @@ MGMT 230 Principles of Management 3
 MGMT 332 Creativity and Innovation 3
 MGMT 443 Entrepreneurship: New Venture Growth 3
 MRKT 210 Principles of Marketing 3
-Environmental Geology
-(CERT)
+E
+nvironmental 
+Geology (CERT)
 Total Credits: 23
 Summary
 The Environmental Geology Certificate is designed to develop a core component of skills in geology that are relevant to solving environmental problems. This certificate will complement students of any major who are interested in pursuing employment in environmental science or resource management job sectors. Courses within the certificate place an emphasis on understanding and solving problems associated with our regional geologic environment.
@@ -6121,7 +6190,8 @@ RPLS 475 Public Land Use Policies 3
 Unrestricted Electives
 Choose an additional three classes from either list (9-12 credits). At least two courses must be taken at the 300-400-level.
 Environmental
-Science (BS)
+S
+cience (BS)
 Total Credits: 120
 Summary
 Environmental Science is an interdisciplinary field directed towards understanding natural environmental processes, human interactions with the environment, and ultimately finding equitable and sustainable solutions to environmental problems. Major areas of focus include terrestrial and aquatic ecosystems and biodiversity, soils, climate change, pollutants, and environmental regulations with an emphasis on experiential learning through field coursework, research and/or internships. The major is orientated towards helping students develop skills for leadership positions in federal, state, and local governments, conservation groups, consulting firms, and industry. The program is also ideal as a foundation for advanced study in law, policy, and scientific research specialties.
@@ -6218,7 +6288,7 @@ HP 141 Introduction to Sport Management 3
 HP 455 Esport Governance 3
 HP 469 Sport and Esport Event Management 3
 RPLS 150 Esports Skills Development 1
-Capstone Choose 3 Credit(s). 104 2024-2025 Undergraduate Catalog
+Capstone Choose 3 Credit(s). 
 HP 489 Applied Esport Management 3
 Ethics Minor
 Total Credits: 18
@@ -6265,7 +6335,8 @@ PHIL 460
 Philosophy of the
 Arts 3
 Ethnic
-Studies (BS) Business/Corporate
+S
+tudies (BS) Business/Corporate
 Total Credits: 120
 Summary
 Business/Corporate prepares students for a wide variety of career opportunities where they can apply diversity and inclusion skills in business/corporate contexts, including recruiting, corporate sales management, and customer services. Students acquire knowledge in business, economics, accounting, and computer skills which can enrich any company.
@@ -6339,7 +6410,8 @@ Minor
 Minor is required. Students can choose any Minor, for example,
 Marketing, Human Resource Management, or International Business.
 Ethnic
-Studies (BS) International Community and
+S
+tudies (BS) International Community and
 Human Services
 Total Credits: 120
 Summary
@@ -6415,7 +6487,8 @@ Minor
 Minor is required. Students can choose any Minor, for example,
 International Relations or any foreign languages.
 Ethnic
-Studies (BS) Local Community and Human
+S
+tudies (BS) Local Community and Human
 Services
 Total Credits: 120
 Summary
@@ -6446,7 +6519,7 @@ ETHN 299 Individual Study 1-3
 ETHN 310 Environmental Racism 3
 ETHN 330 Immigration and Ethnicity 3
 ETHN 380 Perspectives on Multiracial Identities in the United States 3
-ETHN 400 Cultural Pluralism 3 106 2024-2025 Undergraduate Catalog
+ETHN 400 Cultural Pluralism 3 
 ETHN 401 Applied Cultural Research 3
 ETHN 402W Ethnic Research Methods/Skills 3
 ETHN 405 Perspectives on New Immigrants 3
@@ -6487,7 +6560,8 @@ Minor
 Minor is required. Students can choose any Minor, for example,
 Psychology, Social Work, or Counseling/Education.
 Ethnic
-Studies (BS) Public/Government
+S
+tudies (BS) Public/Government
 Total Credits: 120
 Summary
 Public/Government offers comprehensive education and training for individuals interested in careers where they apply skills in public sector administration. The employment opportunities include administrative positions in public and private schools. The public sector provides public goods and governmental services in areas such as the military, police departments, public education, and healthcare, and therefore positions in these areas as well as within the government itself.
@@ -6560,7 +6634,8 @@ Minor
 Minor is required. Students can choose any Minor, for example, Political
 Science, Criminal Justice or Urban & Regional Studies.
 Ethnic
-Studies (BS) Racial/Ethnic Communities in the
+S
+tudies (BS) Racial/Ethnic Communities in the
 United States
 Total Credits: 120
 Summary
@@ -6673,7 +6748,8 @@ Racial and
 Ethnic
 Politics 3
 Exercise
-Science (BS) General Exercise Science
+S
+cience (BS) General Exercise Science
 Total Credits: 120
 Summary
 Exercise Science: General focuses on the study of the acute and chronic physiological responses to physical activity and exercise and prepares students to develop evidence and science-based physical activity and exercise training programs that promote active lifestyles, facilitate recovery, reduce injury risk, and improve human performance.
@@ -6681,7 +6757,7 @@ Program Requirements
 Required General Education
 CHEM 111 Chemistry of Life Process Part II (Organic & Biochemistry) 5
 CIS 100 Introduction to Computing and Applications 4
-ENG 101 Foundations of Writing & Rhetoric 4 108 2024-2025 Undergraduate Catalog
+ENG 101 Foundations of Writing & Rhetoric 4 
 FCS 140 Introduction to Nutrition 3
 MATH 112 College Algebra 4
 Major Common Core
@@ -6771,7 +6847,8 @@ HP 487 Applied Exercise Science 4
 Minor
 Required Minor: None.
 Exercise
-Science (BS) Practitioner
+S
+cience (BS) Practitioner
 Total Credits: 120
 Summary
 The curriculum focuses on the study of the acute and chronic physiological responses to physical activity and exercise and prepares students to develop evidence and science-based physical activity and exercise training programs that promote active lifestyles, facilitate recovery, reduce injury risk, and improve human performance. Exercise
@@ -6868,8 +6945,9 @@ PSYC 343 Introduction to Developmental Psychology 4
 PSYC 455 Abnormal Psychology 4
 Minor
 Required Minor: None.
-Experimental Psychology
-(CERT)
+E
+xperimental 
+Psychology (CERT)
 Total Credits: 21
 Summary
 The purpose of this certificate is to provide undergraduate students with hands-on research experience in psychology. Psychology majors who are considering graduate school are highly recommended to complete this certificate.
@@ -6903,7 +6981,8 @@ Psychology 4
 Family
 Consumer
 Science
-Education (BS)
+E
+ducation (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -6932,11 +7011,12 @@ See the K-12 Teaching Programs section of the catalog for admission requirements
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 FCS-Child Development &
 Family
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 FCS-Child Development & Family Studies prepares students to work with children, adults and families in a variety of human services, educational, and community settings. The program is certified by the
-National Council on Family Relations (NCFR). 110 2024-2025 Undergraduate Catalog
+National Council on Family Relations (NCFR). 
 Policies
 Admission: Open to any interested student. Students can seek permission from faculty to take upper-level (300-400) courses if they have less than 30 credits.
 Progression/Graduation Requirement: Students must complete all courses in the major with a “C-” or better.
@@ -6976,8 +7056,9 @@ FCS 496 Selected Topics: CDFS 2-3
 FCS 497 Internship 1-6
 FCS 499 Individual Study 1-6
 PSYC 230 Child Care Psychology 3
-Film and Media Studies
-(BA)
+F
+ilm 
+and Media Studies (BA)
 Total Credits: 120
 Summary
 Policies
@@ -7095,7 +7176,8 @@ Cinema 4
 PHIL 465
 Philosophy of
 Film 3
-Finance (BS) Financial Planning and Insurance
+F
+inance (BS) Financial Planning and Insurance
 Total Credits: 120
 Summary
 An emphasis in Financial Planning prepares individuals with the skills necessary to plan and manage the financial interests of individuals.
@@ -7131,7 +7213,7 @@ PHIL 240W Law, Justice & Society 3
 Prerequisites to the Major
 ACCT 200 Financial Accounting 3
 BUS 295 Professional Preparation for Business Careers 2
-CIS 101 Introduction to Information Systems 3 112 2024-2025 Undergraduate Catalog
+CIS 101 Introduction to Information Systems 3 
 Major Common Core
 Required of all College of Business majors Choose 34 Credit(s).
 ACCT 210 Managerial Accounting 3
@@ -7181,7 +7263,8 @@ Planning 3
 FINA 470
 Personal
 Insurance 3
-Finance (BS) General Finance
+F
+inance (BS) General Finance
 Total Credits: 120
 Summary
 An emphasis in General Finance offers individuals the flexibility of taking courses in a broad range of financial occupations. The broader selection of courses provides both the analytical and technical skills important for banking, entrepreneurial or institutional careers. Students select courses from the corporate finance, investment analysis or financial planning emphases.
@@ -7289,7 +7372,8 @@ Maverick
 Fund 3
 FINA 498
 Internship 3
-Finance (BS) Quantitative Finance
+F
+inance (BS) Quantitative Finance
 Total Credits: 120
 Summary
 The financial world has become increasingly complex due to new technology and advanced analytics. Quantitative finance emphasis is an area where students can learn the fundamental techniques in business analytics, financial risk management, and complicated financial instruments in derivatives market, while building on a good foundation of finance knowledge of student choice, such as corporate finance, investment, and financial institutions and markets.
@@ -7384,7 +7468,7 @@ FINA 458 Estate Planning 3
 FINA 460 Investments 3
 FINA 463 Equity Valuation 3
 FINA 464 Financial Institutions and Markets 3
-FINA 466 Retirement Planning 3 114 2024-2025 Undergraduate Catalog
+FINA 466 Retirement Planning 3 
 FINA 498 Internship 3
 FINA 499 Individual Study 1-3
 MRKT 312 Professional Selling 3
@@ -7409,7 +7493,8 @@ HP 439 Nutrition for Physical Activity and Sport 3
 Cannot use one of the Core courses for the minor to fulfill this requirement.
 Food
 Science
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -7443,8 +7528,8 @@ BIOL 452 Biological Instrumentation 3
 Practicum Choose 2 - 4 Credit(s).
 BIOL 497 Internship I 1-12
 BIOL 499 Individual Study 1-4
-French
-(BA)
+F
+rench (BA)
 Total Credits: 120
 Summary
 Policies
@@ -7587,7 +7672,8 @@ FREN 494 Supervised French Study 1-6
 FREN 497 Internship 1-6
 FREN 499 Individual Study 1-4
 French
-Teaching (BS)
+T
+eaching (BS)
 Total Credits: 120
 Summary
 Policies
@@ -7599,7 +7685,7 @@ Required Minor. Any minor is required.
 Proficiency Policies. Students who wish to receive credit by examination may take tests to have their proficiency evaluated.
 Students may not take a proficiency test for a course in which they are enrolled. The department reserves the right to deny admission to courses for those students whom a faculty member determines to have mastered the material already.
 Fulfilling BA Language Requirement. Students who wish to validate the BA Language requirement for previous study in French, German,
-Spanish, Swedish or Norwegian may do so by taking a credit by exam (see above section). Students do not meet the BA language requirement merely because they have taken two years of high school language. 116 2024-2025 Undergraduate Catalog
+Spanish, Swedish or Norwegian may do so by taking a credit by exam (see above section). Students do not meet the BA language requirement merely because they have taken two years of high school language. 
 Residency Requirement. Transfer credits will be applied only if they are the equivalent of work offered by the Department of Philosophy,
 Languages & Cultures for the major or minor in that language. In addition, a minimum of work must be taken at Minnesota State
 University, Mankato as follows:
@@ -7674,8 +7760,9 @@ FREN 499 Individual Study 1-4
 Other Graduation Requirements
 See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses.
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
-Gender and Women’s Studies
-(BA)
+G
+ender 
+and Women’s Studies (BA)
 Total Credits: 120
 Summary
 Policies
@@ -7719,7 +7806,8 @@ Choose 8 credit(s): take one series Language
 Minor
 Required Minor: Yes. Any.
 Gender and Women’s
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 Policies
@@ -7800,8 +7888,8 @@ SOC 307 Sex & Gender in Contemporary Society 4
 SOC 409 Family Violence 4
 SOC 420 Identity Work in Women’s Reentry Experiences 4
 SOWK 427 Social Work Response to Intimate Partner Violence 3
-Geoarcheology
-(CERT)
+G
+eoarcheology (CERT)
 Total Credits: 17
 Summary
 This certificate cross-trains students in archeology, geography, and geology to emphasize the necessity of understanding physical processes in places and regions as important vectors in shaping human habitation and resource use over time. The certificate prepares students to be highly competitive in either further education or the job market.
@@ -7816,7 +7904,7 @@ GEOL 122 Earth History 4
 Archeology Electives Choose 3 Credit(s).
 ANTH 410 Archaeology of Minnesota 4
 ANTH 411 Archaeology of Native North America 4
-ANTH 412 Archaeology of Latin America 4 118 2024-2025 Undergraduate Catalog
+ANTH 412 Archaeology of Latin America 4 
 ANTH 416 Archeological Methods 4
 Earth Science Electives Choose 6 - 8 Credit(s).
 GEOG 315 Geomorphology 4
@@ -7825,8 +7913,9 @@ GEOG 415 Earth Surface Processes 4
 GEOG 416W Fluvial Geomorphology and Hydrology 4
 GEOL 201 Elements of Mineralogy 4
 GEOL 320W Sedimentology and Stratigraphy 4
-Geographic Information Science
-(CERT)
+G
+eographic 
+Information Science (CERT)
 Total Credits: 19
 Summary
 The Undergraduate Certificate in Geographic Information Science (GISc) integrates technologies such as Remote Sensing, Geographic Information
@@ -7850,8 +7939,8 @@ GEOG 482 GIS for Natural Resources 4
 GEOG 483 Cloud Mapping & Visualization 4
 GEOG 484 Web GIS 4
 GEOG 485 GIS Programming 4
-Geography
-(BA)
+G
+eography (BA)
 Total Credits: 120
 Summary
 The Geography BA degree allows students to examine the relationships between people and the environment, while enabling them to focus more fully on the cultural aspects of the discipline. Students pursuing the major can take a variety of regional courses to enhance their knowledge of world affairs and also become proficient in a language of their choice.
@@ -7902,7 +7991,8 @@ Other Graduation Requirements
 Choose 8 credit(s): take one series Language
 Minor
 Required Minor: Yes. Any.
-Geography (BS)
+G
+eography (BS)
 Total Credits: 120
 Summary
 The Geography BS allows students to study the relationships and interactions between people and our environment, and it prepares them to use cutting-edge geospatial technologies to solve real-world problems.
@@ -7989,12 +8079,13 @@ Certificate so upper-division geospatial electives can double count for both pro
 Program Requirements
 Core
 GEOG 101 Introductory Physical Geography 4
-GEOG 103 Introductory Cultural Geography 3 120 2024-2025 Undergraduate Catalog
+GEOG 103 Introductory Cultural Geography 3 
 GEOG 340 United States 3
 Electives
 Choose 9 Credit(s).
 GEOG 200 - 499
-Geology (BS)
+G
+eology (BS)
 Total Credits: 120
 Summary
 Geology is the study of the Earth, its materials, and its processes.
@@ -8090,8 +8181,9 @@ GEOL 430 Intro to Geophysics and Seismology 3
 GEOL 449 Applied Soil Science and Surface Hydrology 4
 GEOL 450 Hydrogeology 3
 GEOL 499 Individual Study 1-5
-Geomorphology and Earth Surface Processes
-(CERT)
+G
+eomorphology 
+and Earth Surface Processes (CERT)
 Total Credits: 15
 Summary
 The certificate may not be eligible for federal financial aid. Speak with the
@@ -8119,7 +8211,8 @@ GEOL 320W
 Sedimentology and
 Stratigraphy 4
 Geospatial
-Science (BS)
+S
+cience (BS)
 Total Credits: 120
 Summary
 Geospatial Science utilizes digital technologies such as Geographic
@@ -8161,7 +8254,7 @@ GEOG 415 Earth Surface Processes 4
 GEOG 416W Fluvial Geomorphology and Hydrology 4
 GEOG 417 Quaternary Environments and Climatic Change 4
 GEOG 420 Conservation of Natural Resources 3
-Regional Choose 3 Credit(s). GEOG 409 Selected Topics: Geography of South Asia may be substituted for Regional elective with departmental permission. 122 2024-2025 Undergraduate Catalog
+Regional Choose 3 Credit(s). GEOG 409 Selected Topics: Geography of South Asia may be substituted for Regional elective with departmental permission. 
 GEOG 340 United States 3
 GEOG 342 Geography of Minnesota 3
 GEOG 445 Latin America 3
@@ -8196,8 +8289,8 @@ Additional Electives Choose 22 - 27 Credit(s). Total credits in major must equal
 GEOG 200 - 499
 Minor
 No minor is required.
-German
-(BA)
+G
+erman (BA)
 Total Credits: 120
 Summary
 Policies
@@ -8289,7 +8382,8 @@ GER 499 Individual Study 1-4
 WLC 280W Parallel Worlds: Exploring Cultures &
 Symbols 4
 German
-Teaching (BS)
+T
+eaching (BS)
 Total Credits: 120
 Summary
 Policies
@@ -8355,7 +8449,7 @@ Program Requirements
 Core
 Minor Core - Tier 1 Courses (Select at least two courses from either group (“Culture and Communication” or “Trade and
 Technology”, minimum 6 cr.)
-Tier 1 Course Options - Culture and Communication Core. 124 2024-2025 Undergraduate Catalog
+Tier 1 Course Options - Culture and Communication Core. 
 COMM 203 Intercultural Communication 4
 GEOG 103 Introductory Cultural Geography 3
 HIST 170 Ancient World Civilization to 1500 4
@@ -8463,8 +8557,9 @@ URBS 150 Sustainable Communities 3
 URBS 431 Urban Design Principles 3
 URBS 461 Environmental Planning 3
 URBS 471 Urban Transportation 3
-Graphic Design
-(CERT)
+G
+raphic 
+Design (CERT)
 Total Credits: 18
 Summary
 The certificate in graphic design provides a beginning- to intermediatelevel experience in the theory and methods of print-based and screenbased forms of visual communication.
@@ -8484,7 +8579,8 @@ ART 406 Web Design I 3 * The credits earned in the certificate can double count 
 BFA: Graphic Design. * The certificate can be used to fulfill the requirements for a minor.
 Health and
 Physical
-Education (BS)
+E
+ducation (BS)
 Total Credits: 120
 Summary
 Policies
@@ -8525,7 +8621,8 @@ Other Graduation Requirements
 See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses.
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 Health
-Communication (BS)
+C
+ommunication (BS)
 Total Credits: 120
 Summary
 Health communication provides multidisciplinary skills for communicating in health settings or about health and medical topics.
@@ -8569,7 +8666,7 @@ HLTH 360 Theories and Models of Health Education 3
 HLTH 361W Health Communication and Advocacy 4
 HLTH 465 Public Health and Healthcare Systems 3
 HLTH 477 Behavior Change Foundations and Strategies 3
-HLTH 482W Administration and Grant Writing in Health Education 4 126 2024-2025 Undergraduate Catalog
+HLTH 482W Administration and Grant Writing in Health Education 4 
 Health Communication Minor
 Total Credits: 16
 Summary
@@ -8601,7 +8698,8 @@ About
 Health and
 Medicine 4
 Health
-Informatics (BS)
+I
+nformatics (BS)
 Total Credits: 120
 Summary
 The Health Informatics program prepares students to use Information
@@ -8652,8 +8750,9 @@ NURS 286 Relationship-Based Care 3
 NURS 366 Quality, Safety and Informatics in Healthcare 2
 NURS 444 Healthcare Innovation and Entrepreneurship 4
 NURS 445 Legal and Ethical Issues in Health Informatics 4
-Health Informatics
-(CERT)
+H
+ealth 
+Informatics (CERT)
 Total Credits: 25
 Summary
 A certificate in Health Informatics prepares students to use information technology (IT) to solve problems in multidisciplinary real-life settings.
@@ -8691,8 +8790,8 @@ SPAN 355 Spanish Cultures 1-4
 SPAN 356 Latin American Cultures 1-4
 SPAN 405 Topics in Hispanic Literatures 4
 SPAN 450 Spanish for the Professions 4
-History
-(BA)
+H
+istory (BA)
 Total Credits: 120
 Summary
 The program is designed for history majors who plan to pursue a professional degree or a graduate degree in History or a related discipline.
@@ -8758,7 +8857,7 @@ HIST 471 20th Century American West 4
 HIST 476 Comparative Slavery and Emancipation 4
 HIST 477 African American History 4
 HIST 478 America in Vietnam 4
-HIST 481W Civil Rights in the Twentieth Century 4 128 2024-2025 Undergraduate Catalog
+HIST 481W Civil Rights in the Twentieth Century 4 
 HIST 483 American Social and Cultural History 4
 HIST 484 American Labor History 4
 HIST 485 History of American Immigration and Ethnicity 4
@@ -8789,7 +8888,8 @@ Other Graduation Requirements
 Choose 8 credit(s): take one series Language
 Minor
 Any minor is accepted.
-History (BS)
+H
+istory (BS)
 Total Credits: 120
 Summary
 The program is designed for history majors who want to pursue a general degree in history that will develop the information literacy, critical analysis, and writing skills needed for a variety of careers, including libraries and archives, management, education, sales, entrepreneurialism, law and legal-related fields, museum work, social activism, military, and public service, among others.
@@ -8924,7 +9024,7 @@ ENG 425 Topics in Children’s Literature 2-4
 ENG 499 Individual Study 1-4
 PHIL 499 Individual Study 1-6
 SOC 497 Internship: Sociology 1-12
-SOC 499 Individual Study 1-6 130 2024-2025 Undergraduate Catalog
+SOC 499 Individual Study 1-6 
 Human Resource Management Minor
 Total Credits: 18
 Summary
@@ -8942,8 +9042,9 @@ MGMT 441 Staffing 3
 MGMT 442 Compensation Management 3
 MGMT 445 Training & Development 3
 MGMT 486 Strategic Human Resource Management 3
-HVAC&R Engineering Design
-(CERT)
+H
+VAC&
+R Engineering Design (CERT)
 Total Credits: 12
 Summary
 This certificate provides a focused study of the latest technology and procedures for the design of heating, ventilating, air conditioning, and refrigeration (HVAC&R) systems and equipment. The required coursework emphasizes theoretical design as well as industry relevant skills and procedures. Prepares students to be highly competitive in the job market and to eventually take the Principles and Practice of
@@ -8962,8 +9063,9 @@ Choose 3 Credit(s).
 CIVE 340 Structural Analysis 3
 ME 416 Thermal/Fluid Systems Design 3
 MET 425 Project and Value Management 3
-Information Security
-(CERT)
+I
+nformation 
+Security (CERT)
 Total Credits: 12
 Summary
 The Information Security certificate provides students with the necessary knowledge in information security principles and practices and an understanding of how information security functions in an organization from both business and technology aspects. The program will engage students with a thorough review of viruses, worms, backdoors, Trojan horses, Rootkits, and other threats. Students will analyze malware in order to understand the infection, propagation, and deception mechanisms of these attack vectors. It will also focus on risk assessment to identify reasonably foreseeable internal and external risks to the security, confidentiality and integrity of user information and assess the sufficiency of any safeguards in place to control these risks.
@@ -8978,8 +9080,9 @@ CIS 350 Information Security 4
 CIS 442 Database Security, Auditing and Disaster Recovery 4
 CIS 450 Information Warfare 4
 CIS 460 Network and Security Protocols 4
-Integrated Business Experience
-(CERT)
+I
+ntegrated 
+Business Experience (CERT)
 Total Credits: 15
 Summary
 The certificate provides students an entrepreneurial real-world learning opportunity. Students gain additional insight into business concepts by applying the material in a real-world environment and gaining insight into the integrated nature of business. The certificate focuses on learning to develop and operate a business. Student teams will operate their own company, obtain an actual bank loan, and sell their chosen products throughout the semester. The certificate provides an opportunity to practice business skills including communication, problem-solving, and leadership. Students learn what it takes for entrepreneurs to succeed while giving back through community service.
@@ -9063,7 +9166,7 @@ Circuits Laboratory Choose 1 Credit(s).
 EE 240 Evaluation of Circuits 1
 ENGR 241 Linear Circuit Analysis and Design Laboratory 1
 CHOOSE 1 CLUSTER: Choose 4-5 credits from either Physics,
-Chemistry, Mathematics, Geology, or Biology. 132 2024-2025 Undergraduate Catalog
+Chemistry, Mathematics, Geology, or Biology. 
 Physics
 PHYS 223 General Physics III 3
 PHYS 233 General Physics III Laboratory 1
@@ -9147,7 +9250,8 @@ Technical
 Electives
 Integrated
 Science and
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 120
 Summary
 Integrated Science and Engineering (ISAT) is a project-based, flexible major connecting disciplines with industry to offer a program adaptable to students. The major includes targeted options designed to meet specific industry needs. The major is ideal for students with a broad
@@ -9190,8 +9294,9 @@ Area 1 must relate to an U.S. Government STEM-designated area. STEM refers to ma
 HASS Areas 1 and 2 must total a minimum of 24 credits. HASS refers to
 Humanities, Arts, and Social Science, broadly defined, and courses are chosen in consultation with the ISAT Advisor.
 At least half the credits in each area must be at the 300/400 level.
-Interdisciplinary Humanities
-(BA)
+I
+nterdisciplinary 
+Humanities (BA)
 Total Credits: 120
 Summary
 Policies
@@ -9245,7 +9350,7 @@ HUM 498 Humanities Internship 1-4
 HUM 499 Individual Study 1-4
 Choose 8 Credit(s). Take one Language series.
 Minor
-A minor is not required. 134 2024-2025 Undergraduate Catalog
+A minor is not required. 
 Interdisciplinary Humanities Minor
 Total Credits: 20
 Summary
@@ -9274,7 +9379,8 @@ Capstone Choose 4 Credit(s).
 HUM 490 Senior Capstone Project 4
 HUM 498 Humanities Internship 1-4
 Interdisciplinary
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -9291,7 +9397,8 @@ Lower-division courses (100-200 level) may be included with approval of the prog
 Minor
 None
 International
-Business (BS)
+B
+usiness (BS)
 Total Credits: 120
 Summary
 International Business majors acquire the knowledge to work successfully in today’s globalized business operations. Students become informed global citizens and develop a skill set to bridge cross-cultural differences in business practices around the world.
@@ -9409,8 +9516,9 @@ IBUS 469 International Business Finance 3
 IBUS 485 Export Administration 3
 IBUS 490 International Business Policy and Strategy 3
 IBUS 492 Study Tour 1-3
-International Relations
-(BA)
+I
+nternational 
+Relations (BA)
 Total Credits: 120
 Summary
 Program Requirements
@@ -9460,7 +9568,7 @@ Interdisciplinary Choose 0 - 16 Credit(s). Based on the number of courses taken 
 Politics Category, 0-16 credits can be taken from the courses below.
 ANTH 332 Anthropology of Religion 4
 ANTH 421WHealth, Culture, and Disease 4
-ANTH 430 Peoples and Cultures of Latin America 4 136 2024-2025 Undergraduate Catalog
+ANTH 430 Peoples and Cultures of Latin America 4 
 ANTH 485 Topics in Anthropology 1-4
 ART 417 Medieval Art and Architecture 3
 ART 419 Gender in Art 3
@@ -9648,8 +9756,9 @@ Department, choose 8 credits of 300- and 400-level CIS courses. These courses mu
 CIS 300 - 499
 For Majors from another department Choose 8 Credit(s). When this minor accompanies a major from another department, choose 8 credits of CIS courses numbered 200 and above.
 CIS 200 - 499
-Internet of Things
-(CERT)
+I
+nternet 
+of Things (CERT)
 Total Credits: 19
 Summary
 Program Requirements
@@ -9671,7 +9780,7 @@ Physics. Students earning a degree in Earth Science Teaching, Life
 Science Teaching, or Physics Teaching from Minnesota State, Mankato will qualify for two licenses (1) 5-8 general science and (2) 9-12 specialty.
 Students earning a degree in Chemistry Teaching will qualify only for the 9-12 Chemistry license.
 Policies
-Admission occurs during a student’s sophomore or junior year and is in 138 2024-2025 Undergraduate Catalog addition to their admission into their major. Admission into professional education is a selective process. A student must continually meet progression standards to remain in the program.
+Admission occurs during a student’s sophomore or junior year and is in  addition to their admission into their major. Admission into professional education is a selective process. A student must continually meet progression standards to remain in the program.
 Admission into Professional Education • A minimum of 32 earned semester credit hours • A minimum 2.75 cumulative GPA • Completion of Basic Skills exam • Enrollment or completion of KSP 220W and KSP 222 • “C” grade in ENG 101 • “C” grade in General Education Math • Completion of National Criminal Background Check • Proof of liability insurance
 Progression Standards: • Students must meet progression standards to remain in the program. • Coursework in professional education requires a grade of “C” or better. • A cumulative career GPA of 2.75 is required. • Field experiences & required background checks. • Courses must be taken for a grade except when P/N is the only option. • Admission to the student teaching experience is contingent upon completion of courses, admission to Professional Education, and other approvals
 Note: Requirements for teaching majors may change as new rules for licensure are adopted by the Minnesota Professional Educator Licensing and Standards Board (PELSB).
@@ -9737,7 +9846,9 @@ Complete the 44 credits for the university’s general education requirements.
 General Electives
 Choose 16 Credit(s).
 Any Discipline 100 - 299
-Life Science Teaching (5-12) (BS)
+L
+ife 
+Science Teaching (5-12) (BS)
 Total Credits: 120
 Summary
 Policies
@@ -9824,11 +9935,11 @@ ENG 484 Teaching Grammar and Vocabulary to English Learners 4
 FREN 323 French Phonetics & Applied Linguistics 2-4
 FREN 404 French Syntax 2-4
 GER 445 Topics in German Linguistics 1-4
-PHIL 410 Philosophy of Language 3 140 2024-2025 Undergraduate Catalog
+PHIL 410 Philosophy of Language 3 
 SPAN 301 Topics in Language 1-4
 SPAN 401 Topics in Linguistics 1-4
-Literature
-(BA)
+L
+iterature (BA)
 Total Credits: 120
 Summary
 The Literature program offers a robust background in British, American, and world literatures, with emphasis placed on critical thinking and written communication. This degree program prepares students with the flexible skills and empathy valued in careers such as education, publishing, marketing, law, and administration.
@@ -9889,7 +10000,8 @@ Other Graduation Requirements
 Choose 8 credit(s): take one series Language
 Minor
 Required Minor: Yes. Any.
-Management (BS) Business Management
+M
+anagement (BS) Business Management
 Total Credits: 120
 Summary
 This program prepares individuals to plan, organize, direct, and control the functions and processes of a firm or organization. The emphasis includes instruction in human resources management and behavior, quantitative methods and tools, entrepreneurship, creativity and innovation, agribusiness, strategic decision making, leadership, and production and operations.
@@ -9958,7 +10070,8 @@ MGMT 482 Business, Society, &
 Ethics 3
 MGMT 497
 Internship 3
-Management (BS) Human Resource Management
+M
+anagement (BS) Human Resource Management
 Total Credits: 120
 Summary
 This program prepares individuals to manage the development of human capital in organizations. The emphasis includes instruction in organizational behavior, labor relations, diversity and inclusion, human resources law, compensation systems, recruitment and selection, training and development, and strategic human resource management.
@@ -10022,12 +10135,11 @@ FINA 466 Retirement Planning 3
 HLTH 488 Worksite Health Promotion 3
 MET 423 Ergonomics & Work Measurement 3
 MGMT 484 Leadership 3
-MGMT 498 Internship 3 142 2024-2025
-Undergraduate
-Catalog
+MGMT 498 Internship 3 
 Management
 Information
-Systems (BS)
+S
+ystems (BS)
 Total Credits: 120
 Summary
 The Management Information Systems BS provides students with indepth knowledge of information technology concepts and applications, and prepares them to create innovative solutions for real-world problems.
@@ -10126,7 +10238,8 @@ Choose 8 additional credits of
 MET courses
 Manufacturing
 Engineering
-Technology (BS)
+T
+echnology (BS)
 Total Credits: 128
 Summary
 Manufacturing involves plans, materials, personnel, and equipment which are transformed in some way that adds value. Students acquire leadership and managerial skills necessary to enter careers in process and systems design, manufacturing operations, maintenance, technical sales or service functions. The curriculum concentrates on the study of
@@ -10217,7 +10330,8 @@ PHYS 212
 Principles of
 Physics
 II 4
-Marketing (BS)
+M
+arketing (BS)
 Total Credits: 120
 Summary
 Marketing prepares students to create, communicate, and deliver products and services that have value for customers and society. The major includes instruction in consumer behavior, professional selling, product and pricing strategy, integrated marketing communications, supply chain management, marketing research, and marketing strategy.
@@ -10245,7 +10359,7 @@ Ethics Requirement - Choose 3 Credit(s).
 PHIL 120W Introduction to Ethics 3
 PHIL 205W Culture, Identity, and Diversity 3
 PHIL 222W Medical Ethics 3
-PHIL 224W Business Ethics 3 144 2024-2025 Undergraduate Catalog
+PHIL 224W Business Ethics 3 
 PHIL 226W Environmental Ethics 3
 PHIL 240W Law, Justice & Society 3
 Prerequisites to the Major
@@ -10349,8 +10463,8 @@ MRKT 492 Study Tour 3
 MRKT 494 Fair Trade Study Abroad in Belize 3
 MRKT 496 Professional Sales Internship 3
 MRKT 498 Internship 3
-Mathematics
-(BA)
+M
+athematics (BA)
 Total Credits: 120
 Summary
 Policies
@@ -10420,7 +10534,8 @@ Other Graduation Requirements
 Choose 8 credit(s): take one series Language
 Minor
 Yes. Any.
-Mathematics (BS)
+M
+athematics (BS)
 Total Credits: 120
 Summary
 Policies
@@ -10442,7 +10557,7 @@ STAT 354 after completing MATH 455 or STAT 455.
 Mathematics and Statistics Placement: Students seeking enrollment in 100-level mathematics/statistics courses may need to demonstrate readiness to succeed in the course following the standards in the
 Mathematics and Statistics Placement Policy.
 Accelerated Combined Degree (BS and MA/MS) Program. Students intending to complete their Bachelor’s and Master’s degree at Minnesota
-State Mankato may be granted permission to take classes that count 146 2024-2025 Undergraduate Catalog toward their graduate program during their undergraduate studies.
+State Mankato may be granted permission to take classes that count  toward their graduate program during their undergraduate studies.
 Admission to the program is conducted through the department.
 Upon being accepted, students will be assigned an advisor to aid in the design of an accelerated program of study (generally 5 years).
 Students must maintain a minimum 3.0 GPA overall and a 3.6 in major (as an undergraduate) to continue in the program. Please contact the
@@ -10527,7 +10642,8 @@ Restricted Electives
 Choose 7 credits from any courses listed for the Mathematics BA or BS majors and/or MATH 380.
 See Residency Policy.
 Mathematics
-Teaching (BS)
+T
+eaching (BS)
 Total Credits: 120
 Summary
 Policies
@@ -10630,8 +10746,9 @@ MATH 247 Linear Algebra I 4
 MATH 422 Partial Differential Equations 4
 PHYS 223 General Physics III 3
 PHYS 233 General Physics III Laboratory 1
-Media Studies
-(BA)
+M
+edia 
+Studies (BA)
 Total Credits: 120
 Summary
 Policies
@@ -10641,7 +10758,7 @@ COMM 110 and COMM 221W may be taken concurrently with department permission.
 COMM 498 and COMM 499 Limits: Students may apply no more than 8 credits of COMM 498 and 4 credits of COMM 499 to fulfillment of a major. Additional credits may be applied for graduation requirements.
 Internship Requirements (COMM 497, COMM 498): In compliance with federal policy, standard expectations are 45 hours of on-site internship experience for each credit hour earned.
 P/N Grading: Total credits in the department must not exceed 25 percent
-P/N for a major. 148 2024-2025 Undergraduate Catalog
+P/N for a major. 
 Program Requirements
 Required General Education
 COMM 110 Media and Society 4
@@ -10758,8 +10875,9 @@ Recommended for Program
 HLTH 101 Health & the Environment (3)
 HLTH 321 Medical Terminology (3)
 Additional electives to meet the 60 credit transfer requirement.
-Museum Studies
-(CERT)
+M
+useum 
+Studies (CERT)
 Total Credits: 15
 Summary
 The aim of this program is to provide a perspective on the theory and practice of museums in an expanding global environment of technological, social and political change for current and future museum professionals. It emphasizes the role of technology as a pervasive aspect in today’s museum, examines new models of education, exhibition, and business strategies, and explores the role of the museum as an agent of social change. We welcome students interested in all types of museums including history, technology, science, art, special topic or themed museums, historic sites, national parks and zoos and those interested in exhibitions for corporations, government agencies and private organizations.
@@ -10782,8 +10900,8 @@ NPL 473 Advanced Workshop in Nonprofit Leadership 3
 PHIL 460 Philosophy of the Arts 3
 RPLS 465 Event Planning and Design 3
 URBS 453 Grants Administration 3
-Music
-(BA)
+M
+usic (BA)
 Total Credits: 120
 Summary
 Evidence of Music can be traced back to the earliest records of human existence and it is more than a career, it is a passion. Whether seeking a career on the stage, in the box office, or in entertainment law, the
@@ -10796,7 +10914,7 @@ MUSC 117 Musicianship 3 for BA/BSME 4
 MUSP 498 Senior Capstone Project or Recital 0-1
 Major Restricted Electives
 Music History 1 - Choose 3 Credit(s).
-MUSC 301W Music History 1 3 150 2024-2025 Undergraduate Catalog
+MUSC 301W Music History 1 3 
 MUSC 303 Music Styles for the Music Educator I 3
 Music History 2 - Choose 3 Credit(s).
 MUSC 302W Music History 2 3
@@ -10945,8 +11063,8 @@ MUSC 498 Internship 1-16
 MUSC 499 Independent Study 1-4
 Other Graduation Requirements
 Choose 8 credit(s): take one series Language
-Music
-(BA) Performance
+M
+usic (BA) Performance
 Total Credits: 120
 Summary
 The degree is ideal for students seeking a career on stage, in the teaching studio, or in a sacred setting. The degree provides students the opportunity to practice and refine their craft. Students studying performance will have more access to one-on-one applied lessons with faculty and work side-by-side with other performers to create dynamic, professional-level concerts and media projects.
@@ -11053,7 +11171,7 @@ MUSP 333 Percussion Ensemble 0-1
 MUSP 335 Theatre Orchestra 1
 Junior Capstone - Choose 1 Credit(s).
 MUSP 399 Junior Recital 0-1
-Specialization: Instrumental Performance 152 2024-2025 Undergraduate Catalog
+Specialization: Instrumental Performance 
 Foundation
 COMM 437 Legal Aspects of the Music Industry 4
 COMM 444 Music Promotion and Social Media 4
@@ -11139,7 +11257,8 @@ MUSP 335
 Theatre
 Orchestra 1
 Music
-Education (BS) Instrumental/General Music (K-12)
+E
+ducation (BS) Instrumental/General Music (K-12)
 Total Credits: 120
 Summary
 Program Requirements
@@ -11249,7 +11368,8 @@ Other Graduation Requirements
 See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses.
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 Music
-Education (BS) Vocal/General Music (K-12)
+E
+ducation (BS) Vocal/General Music (K-12)
 Total Credits: 120
 Summary
 Program Requirements
@@ -11314,7 +11434,7 @@ MUSP 382 Private Oboe 3 1,3
 MUSP 383 Private Clarinet 3 1,3
 MUSP 384 Private Saxophone 3 1,3
 MUSP 385 Private Bassoon 3 1,3
-MUSP 386 Private Percussion 3 1,3 154 2024-2025 Undergraduate Catalog
+MUSP 386 Private Percussion 3 1,3 
 Ensembles - Choose 7 Credit(s).
 MUSP 101 Concert Choir 0-1
 MUSP 102 University Chorale 0-1
@@ -11359,7 +11479,8 @@ Other Graduation Requirements
 See the K-12 Teaching Programs section of the catalog for admission requirements for professional education and for a list of required professional education courses.
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 Music
-Industry (BS)
+I
+ndustry (BS)
 Total Credits: 120
 Summary
 Our Music Industry program is different from traditional programs.
@@ -11425,8 +11546,9 @@ Choose 4 Credit(s).
 CIS 450 Information Warfare 4
 CIS 460 Network and Security Protocols 4
 CIS 462 Network, Security, Administration and Programming 4
-Networking Technologies
-(CERT)
+N
+etworking 
+Technologies (CERT)
 Total Credits: 12
 Summary
 The Networking Technologies certificate provides students with the necessary knowledge in networking principles, administration, programming, security issues and practices so that they are able to apply them in real world organizational challenges and opportunities. The students completing this certificate program will understand and evaluate current and emerging networking and security technologies and assess their applicability to address the needs of individuals and organizations.
@@ -11441,8 +11563,9 @@ CIS 360 Introduction to Networking 4
 CIS 460 Network and Security Protocols 4
 CIS 462 Network, Security, Administration and Programming 4
 CIS 483 Web Application Design and Development 4
-Non-Profit Leadership
-(CERT)
+N
+on-
+Profit Leadership (CERT)
 Total Credits: 18
 Summary
 Program Requirements
@@ -11509,10 +11632,11 @@ RPLS 497 Internship 1-8
 SOC 497 Internship: Sociology 1-12
 SOWK 497 Internship: Social Work 1-10
 URBS 497 Internship 1-12
-Nursing (BS)
+N
+ursing (BS)
 Total Credits: 120
 Summary
-The Nursing BS is designed to prepare students to sit for licensure by examination as registered nurses (RNs). The degree offers a familyfocused curriculum with diverse clinical sites and simulation experiences, preparing students for evidence-based nursing practice with a strong clinical and theoretical background. We focus on students becoming respected and valued members of the healthcare team working with diverse patient populations. 156 2024-2025 Undergraduate Catalog
+The Nursing BS is designed to prepare students to sit for licensure by examination as registered nurses (RNs). The degree offers a familyfocused curriculum with diverse clinical sites and simulation experiences, preparing students for evidence-based nursing practice with a strong clinical and theoretical background. We focus on students becoming respected and valued members of the healthcare team working with diverse patient populations. 
 Policies
 Admission to Major
 Application for admission is a separate process and in addition to being admitted to the University. Requirements for application are:
@@ -11594,7 +11718,8 @@ Professional
 Role
 Integration 3
 Nutrition and
-Dietetics (BS)
+D
+ietetics (BS)
 Total Credits: 120
 Summary
 The Professional Program in Dietetics is a comprehensive Future
@@ -11657,11 +11782,10 @@ Professions (3 credits) or HLTH 295 Professional Preparation in Health Careers (
 Total: 33-39 credits
 AOTA Website for Accredited OT Programs:
 Education-Careers/Find-School.aspx
-As professional programs transition to OTD, more are changing prerequisites and requiring physics. Be sure to check the specific prerequisite courses of programs you plan to apply to and tailor the above list to meet those requirements. 158 2024-2025
-Undergraduate
-Catalog
+As professional programs transition to OTD, more are changing prerequisites and requiring physics. Be sure to check the specific prerequisite courses of programs you plan to apply to and tailor the above list to meet those requirements. 
 Open
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 Open Studies is a flexible, customizable, and multidisciplinary area of study allowing students to choose classes from across the curriculum that align with their interests, needs, and goals. General Studies is intended for students who have a high volume of credits and uninterested in or unable to complete a traditional major in a reasonable amount of time.
@@ -11716,7 +11840,8 @@ Acceptance to professional educational institutions is contingent upon academic 
 Colleges of osteopathic medicine and surgery require a minimum of 90 semester hours for admission. Students admitted to a college of osteopathic medicine and surgery have completed undergraduate degrees.
 Students interested in osteopathic medicine will find that majoring in
 Biomedical
-Sciences (BS), or Biochemistry (BA or BS) will provide them with appropriate undergraduate training. The Medical
+S
+ciences (BS), or Biochemistry (BA or BS) will provide them with appropriate undergraduate training. The Medical
 College Admissions Test (MCAT) is required for all applicants to colleges of osteopathic medicine and surgery. Since admissions requirements vary, students should consult the advisor.
 Required General Education (12-15 credits)
 ENG 101 Composition (4)
@@ -11747,7 +11872,8 @@ Pre-Pharmacy is a pre-professional program. The purpose of preprofessional progr
 The majority of students admitted to a college of pharmacy have completed an undergraduate degree.
 Students interested in pharmacy often major in
 Biomedical
-Sciences (BS), Biochemistry (BA or BS), or
+S
+ciences (BS), Biochemistry (BA or BS), or
 Chemistry (BA or BS) because these majors include many of the same courses that are required prerequisites to pharmacy programs. The prepharmacy curriculum is designed to meet the prerequisites for admission to many pre-pharmacy schools, however the curriculum is not all inclusive as prerequisites vary between colleges of pharmacy. Therefore, requirements for particular pharmacy schools still need to be taken into consideration before substitutions for these courses are made. The
 Pharmacy College Admission Test (PCAT) is required for all applicants to colleges of pharmacy.
 Coursework
@@ -11775,8 +11901,8 @@ PSYC 101 Introduction to Psychological Science (4)
 STAT 154 Elementary Statistics (4) OR
 STAT 354 Concepts of Probability & Statistics (4) OR
 MATH 354 Concepts of Probability & Statistics (4) 60-64 credits of coursework including the above are typically required by pharmacy programs. Substitutions for both science and non-science courses should be chosen after studying the requirements of particular pharmacy schools. Please contact a pre-pharmacy advisor.
-Philosophy
-(BA)
+P
+hilosophy (BA)
 Total Credits: 120
 Summary
 Policies
@@ -11799,7 +11925,7 @@ PHIL 361 Philosophy of Religion 3
 PHIL 400 The Philosophy of Immanuel Kant 3
 PHIL 405 The Philosophy of Ludwig Wittgenstein 3
 PHIL 437 Contemporary Philosophy 3
-PHIL 455 Existentialism & Phenomenology 3 160 2024-2025 Undergraduate Catalog
+PHIL 455 Existentialism & Phenomenology 3 
 Cluster 2: Language, Epistemology, Metaphysics, and Mind - Choose 6
 Credit(s). Each course can fulfill only one cluster requirement.
 PHIL 358W Topics in Asian Philosophy 3
@@ -11912,8 +12038,9 @@ PHIL 480 Philosophy of Science 3
 PHIL 481 Philosophy of Biology 3
 PHIL 482 Philosophy of Social Science 3
 PHIL 499 Individual Study 1-6
-Philosophy, Politics and Economics
-(BA) Economics
+P
+hilosophy, 
+Politics and Economics (BA) Economics
 Total Credits: 120
 Summary
 Program Requirements
@@ -12032,8 +12159,9 @@ Choose 3 Credit(s).
 ECON 499 Individual Study 1-3
 Other Graduation Requirements
 Choose 8 credit(s): take one series Language
-Philosophy, Politics and Economics
-(BA) Philosophy
+P
+hilosophy, 
+Politics and Economics (BA) Philosophy
 Total Credits: 120
 Summary
 Program Requirements
@@ -12055,7 +12183,7 @@ POL 241 Introduction to Comparative Politics 4
 Choose 4 Credit(s).
 POL 311 Ancient & Medieval Political Philosophy 4
 POL 312 Early Modern Political Philosophy 4
-POL 313 Modern Political Philosophy 4 162 2024-2025 Undergraduate Catalog
+POL 313 Modern Political Philosophy 4 
 POL 410 Topics in Political Philosophy 1-4
 POL 414 Early United States Political Thought 4
 POL 415 Recent United States Political Thought 4
@@ -12153,8 +12281,9 @@ ECON 463 Applied Econometrics of Financial Markets 3
 ECON 472 Industrial Organization 3
 Other Graduation Requirements
 Choose 8 credit(s): take one series Language
-Philosophy, Politics and Economics
-(BA) Political Science
+P
+hilosophy, 
+Politics and Economics (BA) Political Science
 Total Credits: 120
 Summary
 Program Requirements
@@ -12294,7 +12423,8 @@ Physical Education &
 Developmental
 Adapted
 Phy
-Ed (BS)
+E
+d (BS)
 Total Credits: 120
 Summary
 The Physical Education and Developmental Adapted Physical Education major is for students interested in a career as a teacher in the PreKindergarten through High School grades for students with and without disabilities. This program satisfies licensure-to-practice standards for
@@ -12303,7 +12433,7 @@ Policies
 Competitive Admission Standard: a minimum 2.5 cumulative GPA
 Program Progression Standards: “C-” in all required major specific general education courses “C-” in major core courses EXCEPT HP 429 (Community of Practice in
 DAPE), which must be taken as P/NC. Cooperating teacher for HP 429 must be a licensed DAPE teacher. minimum 2.5 cumulative GPA
-All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education. See the 5-12 or K-12 Teaching Programs section in the catalog for admission requirements for professional education and for a list of required professional education courses. 164 2024-2025 Undergraduate Catalog
+All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education. See the 5-12 or K-12 Teaching Programs section in the catalog for admission requirements for professional education and for a list of required professional education courses. 
 Program Requirements
 Required General Education
 FCS 140 Introduction to Nutrition 3
@@ -12373,7 +12503,8 @@ Check the specific prerequisite courses of programs you plan to apply to and tai
 American Physical Therapy Association:
 ProspectiveStudents/
 PTCAS (PT Centralized Application Service): directoryprogramslist/
-Physics (BS)
+P
+hysics (BS)
 Total Credits: 120
 Summary
 Policies
@@ -12474,13 +12605,14 @@ PHYS 475
 Advanced
 Laboratory 2
 Physics
-Teaching (BS)
+T
+eaching (BS)
 Total Credits: 120
 Summary
 Policies
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education. See the 5-12 or K-12 Teaching Programs section in the catalog for admission requirements for professional education and for a list of required professional education courses.
 GPA Policy.
-Students obtaining a degree in science teaching must maintain a minimum cumulative GPA of 2.50 in the sciences. 166 2024-2025 Undergraduate Catalog
+Students obtaining a degree in science teaching must maintain a minimum cumulative GPA of 2.50 in the sciences. 
 P/N Grading Policy
 Courses leading to a degree in science teaching may not be taken on a
 P/N basis except where P/N grading is mandatory.
@@ -12522,7 +12654,8 @@ Acceptance to professional educational institutions is contingent upon academic 
 The minimum requirements for admission to a college of podiatric medicine and surgery are the same as for osteopathic medicine and surgery. A minimum of 90 semester hours are required for admission; however, most students admitted to a college of podiatric medicine and surgery have completed undergraduate degrees.
 Students interested in podiatric medicine will find that majoring in
 Biomedical
-Sciences (BS), or Biochemistry (BA or BS) will provide them with appropriate undergraduate training. The Medical College Admissions Test is required for all applicants to colleges of podiatric medicine and surgery. Students in this program should regularly consult with the advisor.
+S
+ciences (BS), or Biochemistry (BA or BS) will provide them with appropriate undergraduate training. The Medical College Admissions Test is required for all applicants to colleges of podiatric medicine and surgery. Students in this program should regularly consult with the advisor.
 There are no requirements for MATH in this program; however, the student needs prerequisites in Math to take courses in chemistry and physics.
 Required General Education (78 credits)
 ENG 101 Composition (4)
@@ -12548,7 +12681,8 @@ PHYS 212 Principles of Physics II (4)
 Required Electives (40-43 credits)
 Electives to yield a total of 90 semester credits are required.
 Policing
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 Policing Studies BS is designed for individuals seeking a professional career as a peace officer in a law enforcement or related agency who serves multicultural and diverse communities at the individual, local, state, federal, and global levels. This program meets the academic requirements to be eligible to be licensed in the State of Minnesota.
@@ -12657,7 +12791,7 @@ CJ 430W Peace Officer Technical Writing 3
 CJ 432 Peacekeeping in a Diverse Society II 3
 CJ 433 Peace Officer Senior Seminar 1
 Community Engagement - Choose 2 Credit(s). Course must be taken twice in different terms for a total of 2 credits
-CJ 371 Criminal Justice Community Experiences 1 168 2024-2025 Undergraduate Catalog
+CJ 371 Criminal Justice Community Experiences 1 
 Major Restricted Electives
 Required Physical Fitness Electives - Choose 1 - 3 Credit(s). Choose at least 1 credit. Students who have earned at least 2.0 Military credits on their transcript for attending basic training fulfills this requirement.
 CJ 334 Physical Wellness for Police 3
@@ -12670,8 +12804,9 @@ MSL 210 Army Physical Fitness 1
 Program Restricted Electives - Choose 6 Credit(s). Choose 6 credits, 3 credits must be at the 300-400 level
 CJ 100 - 499
 GWS 411 Sexual Assault Victim Advocacy 4
-Policing Studies
-(CERT)
+P
+olicing 
+Studies (CERT)
 Total Credits: 27
 Summary
 The certificate is for students who already have a conferred bachelor’s degree in any discipline who want to meet the education requirements to become a licensed peace officer in the State of Minnesota and work for a law enforcement or related agency. The successful completion of the curriculum in the certificate, along with the successful completion of the clinical skills component, will allow students to be eligible to take the
@@ -12705,8 +12840,9 @@ Restricted Electives
 Choose 12 Credit(s). 9 credits must be at the 300-400 level
 CJ 100 - 499
 LAWE 100 - 499
-Political Science
-(BA)
+P
+olitical 
+Science (BA)
 Total Credits: 120
 Summary
 Political science is the systematic study of politics, power relationships and government. Political science is in one sense an ancient discipline:
@@ -12794,7 +12930,8 @@ Minor
 Any minor can be completed, except for a minor in International
 Relations or Public Administration.
 Political
-Science (BS)
+S
+cience (BS)
 Total Credits: 120
 Summary
 Policies
@@ -12844,7 +12981,7 @@ POL 430 Topics in International Relations 1-4
 POL 431 International Relations 4
 POL 433 International Organization 4
 POL 434 United States Foreign Policy 4
-POL 435 Capitalism, Nationalism, and Democracy 4 170 2024-2025 Undergraduate Catalog
+POL 435 Capitalism, Nationalism, and Democracy 4 
 POL 436 International Political Economy 4
 POL 437 International Conflict Resolution 4
 POL 438 International Relations of East Asia 4
@@ -12886,8 +13023,9 @@ Unrestricted Electives
 Choose 20 Credit(s). * 12 credits must be at the 300-400
 POL 100 - 499 Choose 8 credits
 POL 300 - 499 Choose 12 credits.
-Post Bac Communication Sciences & Disorders
-(CERT)
+P
+ost 
+Bac Communication Sciences & Disorders (CERT)
 Total Credits: 24
 Summary
 The post-baccalaureate program in Communication Sciences &
@@ -12944,8 +13082,9 @@ AVIA 251 Commercial Pilot Flight Lab 2
 AVIA 253 Commercial Pilot Flight Lab II 2
 AVIA 340 Flight Operations 3
 AVIA 436 Flight Operations and Procedures 3
-Professional Sales
-(CERT)
+P
+rofessional 
+Sales (CERT)
 Total Credits: 18
 Summary
 The Professional Sales certificate develops the necessary skills required to enter the sales industry. The certificate focuses on the dynamics of business-to-business selling (B2B). Students are introduced to the fundamentals of selling, the sales cycle, communication skills, problem solving/analytical skills, customer relationship management, various sales technologies and the sales management process through multiple experiential learning opportunities.
@@ -12965,8 +13104,9 @@ MRKT 413 Business-to-Business Marketing 3
 MRKT 420 Sales Management 3
 MRKT 424 Advanced Professional Selling 3
 MRKT 496 Professional Sales Internship 3
-Project-based Engineering
-(CERT)
+P
+roject-
+based Engineering (CERT)
 Total Credits: 15
 Summary
 The certificate may not be eligible for federal financial aid. Speak with the
@@ -13010,7 +13150,8 @@ ENGR 475 - 479
 Advanced
 Technical
 Electives
-Psychology (BS)
+P
+sychology (BS)
 Total Credits: 120
 Summary
 Psychology is the scientific study of the effects of individual, social, physiological, developmental, and environmental factors on thoughts, feelings, and behavior. Psychology courses cover the methods of psychological inquiry and the findings of psychological research.
@@ -13024,7 +13165,7 @@ GPA Policy: Any Psychology course in which a grade of less than “C-” (or P) 
 Teaching Psychology: Students who intend to gain initial licensure to teach psychology in Minnesota schools need to meet the requirements of the social studies BS (teaching) program as described in the Social
 Studies section of this catalog.
 Experimental Psychology Certificate: Students must earn a grade of
-C- or better in all certificate courses for that course to count towards the certificate. No more than 4 credits in the certificate may be taken for P/N credit. Students must meet requirements of admission to the psychology major in order to complete this certificate. 172 2024-2025 Undergraduate Catalog
+C- or better in all certificate courses for that course to count towards the certificate. No more than 4 credits in the certificate may be taken for P/N credit. Students must meet requirements of admission to the psychology major in order to complete this certificate. 
 Program Requirements
 Prerequisites to the Major
 PSYC 101 Introduction to Psychological Science 4
@@ -13105,7 +13246,8 @@ POL 467 Housing and Health Policy 4
 POL 491 Internship 1-12
 No more than 8 credits of POL 491 Internship may count toward the minor.
 Public
-Relations (BS)
+R
+elations (BS)
 Total Credits: 120
 Summary
 Public relations professionals are employed in a wide range of public and private sector positions requiring the skills of persuasive communication in diverse settings.
@@ -13146,7 +13288,8 @@ Required Minor: Yes. Any.
 Recreation and
 Parks
 Leadership
-Studies (BS) Cultural and Natural Resource Management
+S
+tudies (BS) Cultural and Natural Resource Management
 Total Credits: 120
 Summary
 Cultural and Natural Resource Management recognizes the intertwined aspects of the resources people hold dear. Culture and nature are at the center of important conversations across the world, and the Cultural and
@@ -13224,7 +13367,8 @@ Planning 3
 Recreation and
 Parks
 Leadership
-Studies (BS) Recreation
+S
+tudies (BS) Recreation
 Leadership and Management
 Total Credits: 120
 Summary
@@ -13242,7 +13386,7 @@ Completion of all other required RPLS coursework with a “C” (2.0) or better 
 A minimum cumulative GPA of 2.0 in the major,
 Completion of RPLS Field Experience form,
 Completion of an Application for Senior Internship approved by the student’s faculty advisor prior to beginning the senior internship; and
-Permission to register from the student’s faculty advisor. 174 2024-2025 Undergraduate Catalog
+Permission to register from the student’s faculty advisor. 
 P/N Grading Policy
 RPLS majors and minors must take required courses for a letter grade with the exception that the senior internship course must be taken on a
 P/N basis. Non-majors may elect RPLS courses for pass/no credit where this option is available.
@@ -13283,8 +13427,9 @@ RPLS 393W Advancing Diversity, Equity, and Inclusion in RPLS 3
 Unrestricted Electives
 Choose 9 Credit(s).
 RPLS 300 - 499
-Renewable Energy
-(CERT)
+R
+enewable 
+Energy (CERT)
 Total Credits: 10
 Summary
 Renewable Energy certificate includes targeted courses in power systems, instrumentation and fluid power intended to supplement the contents of a technical Associate of Science (AS) degree or Technician program in
@@ -13308,10 +13453,13 @@ Power
 Systems 4
 RN
 Baccalaureate
-Completion (BS)
+C
+ompletion (BS)
 Total Credits: 120
 Summary
-The RN Baccalaureate Completion program is designed for the licensed registered nurse (RN) with an associate’s degree who wishes to earn a bachelor of science (BS) in nursing. A bachelor’s degree in nursing will give the graduate a competitive edge for employment, career advancement, and graduate education.
+T
+he 
+RN Baccalaureate Completion program is designed for the licensed registered nurse (RN) with an associate’s degree who wishes to earn a bachelor of science (BS) in nursing. A bachelor’s degree in nursing will give the graduate a competitive edge for employment, career advancement, and graduate education.
 Policies
 Students must be admitted into the RN Baccalaureate Completion
 Program prior to taking any nursing courses. RNs are accepted during the fall, spring, and summer semesters. The application for RN
@@ -13355,8 +13503,9 @@ NURS 420 Quality, Safety, Value and Informatics in Nursing Practice for
 RNs 4
 NURS 482W Population-Based Public Health Practice for RNs 6.00
 NURS 492 Nursing Capstone and Leadership for Baccalaureate Practice 4
-Scandinavian Studies
-(BA)
+S
+candinavian 
+Studies (BA)
 Total Credits: 120
 Summary
 Policies
@@ -13455,7 +13604,7 @@ SOWK 255 Global Responses to Human Need 3
 Science Teaching (K-12)
 Summary
 See degree requirements under the following areas in the catalog:
-Biology Teaching (5-12) 176 2024-2025 Undergraduate Catalog
+Biology Teaching (5-12) 
 Chemistry Teaching (9-12)
 Earth Science Teaching (5-12)
 Physics Teaching (5-12)
@@ -13500,7 +13649,8 @@ Gender in
 Contemporary
 Society 4
 Social
-Studies (BS) Anthropology
+S
+tudies (BS) Anthropology
 Total Credits: 120
 Summary
 Program Requirements
@@ -13528,7 +13678,8 @@ Emphasis Restricted Electives
 Anthropology - Choose 24 Credit(s). 15 of the 24 credits must be upperdivision courses.
 ANTH 100 - 499
 Social
-Studies (BS) Economics
+S
+tudies (BS) Economics
 Total Credits: 120
 Summary
 Program Requirements
@@ -13556,7 +13707,8 @@ Emphasis Restricted Electives
 Economics - Choose 24 Credit(s). 15 of the 24 credits must be upperdivision courses.
 ECON 100 - 499
 Social
-Studies (BS) Ethnic Studies
+S
+tudies (BS) Ethnic Studies
 Total Credits: 120
 Summary
 Program Requirements
@@ -13584,7 +13736,8 @@ Emphasis Restricted Electives
 Ethnic Studies - Choose 24 Credit(s). 15 of the 24 credits must be upperdivision courses.
 ETHN 100 - 499
 Social
-Studies (BS) Gender & Women’s Studies
+S
+tudies (BS) Gender & Women’s Studies
 Total Credits: 120
 Summary
 Programs Requirements
@@ -13612,7 +13765,8 @@ Emphasis Restricted Electives
 Gender & Women’s Studies - Choose 24 Credit(s). 15 of the 24 credits must be upper-division courses.
 GWS 100 - 499
 Social
-Studies (BS) Geography
+S
+tudies (BS) Geography
 Total Credits: 120
 Summary
 Program Requirements
@@ -13629,7 +13783,7 @@ POL 100 - 499
 PSYC 100 - 499
 SOC 100 - 499
 URBS 100 - 499
-Students should enroll in SOST 299, Individual Study in the subsequent semester to declaring the social studies non-teaching major. Students will work with the social studies coordinator to define personal learning goals and objectives and begin the development of a personal learning portfolio. In the senior year, the student will take SOST 499, 178 2024-2025 Undergraduate Catalog
+Students should enroll in SOST 299, Individual Study in the subsequent semester to declaring the social studies non-teaching major. Students will work with the social studies coordinator to define personal learning goals and objectives and begin the development of a personal learning portfolio. In the senior year, the student will take SOST 499, 
 Individual Study.
 Choose 1 - 14 Credit(s).
 SOST 299 Individual Study 1-6
@@ -13638,7 +13792,8 @@ Emphasis Restricted Electives
 Geography - Choose 24 Credit(s). 15 of the 24 credits must be upperdivision courses.
 GEOG 100 - 499
 Social
-Studies (BS) History
+S
+tudies (BS) History
 Total Credits: 120
 Summary
 Program Requirements
@@ -13668,7 +13823,8 @@ Asia, and Africa) and United States.
 History - Choose 24 Credit(s). 15 of the 24 credits must be upperdivision courses.
 HIST 100 - 499
 Social
-Studies (BS) Political Science
+S
+tudies (BS) Political Science
 Total Credits: 120
 Summary
 Program Requirements
@@ -13696,7 +13852,8 @@ Emphasis Restricted Electives
 Political Science - Choose 24 Credit(s). 15 of the 24 credits must be upper-division courses.
 POL 100 - 499
 Social
-Studies (BS) Psychology
+S
+tudies (BS) Psychology
 Total Credits: 120
 Summary
 Policies
@@ -13733,7 +13890,8 @@ Emphasis Restricted Electives
 Psychology - Choose 24 Credit(s). 15 of the 24 credits must be upperdivision courses.
 PSYC 100 - 499
 Social
-Studies (BS) Sociology
+S
+tudies (BS) Sociology
 Total Credits: 120
 Summary
 Program Requirements
@@ -13762,7 +13920,8 @@ Sociology -Choose 24 Credit(s). 15 of the 24 credits must be upperdivision cours
 SOC 100 - 499
 Social
 Studies
-Teaching (BS) Anthropology
+T
+eaching (BS) Anthropology
 Total Credits: 120
 Summary
 Policies
@@ -13811,13 +13970,14 @@ See the K-12 Teaching Programs section of the catalog for admission requirements
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 Social
 Studies
-Teaching (BS) Economics
+T
+eaching (BS) Economics
 Total Credits: 120
 Summary
 Policies
 Admission
 Admission to the major is granted by the program. Students enrolling in
-SOST 450 (KSP Level 3) must be admitted to the Social Studies program, a process in addition to admission to the KSP Program. Admission to the Social Studies teaching program is limited. Preference for admission to the program is given to students who have a 3.0 GPA and how have been involved in global, multicultural, civic and/or community service experiences. Students are encouraged to work closely with the Director 180 2024-2025 Undergraduate Catalog of Social Studies Education to prepare for admission into the KSP and SoST programs.
+SOST 450 (KSP Level 3) must be admitted to the Social Studies program, a process in addition to admission to the KSP Program. Admission to the Social Studies teaching program is limited. Preference for admission to the program is given to students who have a 3.0 GPA and how have been involved in global, multicultural, civic and/or community service experiences. Students are encouraged to work closely with the Director  of Social Studies Education to prepare for admission into the KSP and SoST programs.
 GPA Policy
 A grade of “C” or better is required in all courses in the major.
 P/N Grading Policy
@@ -13861,7 +14021,8 @@ Other Graduation Requirements
 See the Secondary 5-12 & K-12 Professional Education section of the bulletin for admission requirements for professional education and for a list of required professional education courses. Students will take two credits of general electives to meet the 120-credit degree requirement.
 Social
 Studies
-Teaching (BS) Geography
+T
+eaching (BS) Geography
 Total Credits: 120
 Summary
 Policies
@@ -13943,7 +14104,8 @@ Other Graduation Requirements
 See the Secondary 5-12 & K-12 Professional Education section of the bulletin for admission requirements for professional education and for a list of required professional education courses. Students will take two credits of general electives to meet the 120-credit degree requirement.
 Social
 Studies
-Teaching (BS) History
+T
+eaching (BS) History
 Total Credits: 120
 Summary
 Policies
@@ -13989,7 +14151,8 @@ See the K-12 Teaching Programs section of the catalog for admission requirements
 All students seeking a teaching license must meet and maintain the requirements to be admitted into professional education.
 Social
 Studies
-Teaching (BS) Political Science
+T
+eaching (BS) Political Science
 Total Credits: 120
 Summary
 Policies
@@ -14020,7 +14183,7 @@ HIST 302 World History: An Overview 4
 POL 321 Democracy and Citizenship 4
 SOC 101 Introduction to Sociology 4
 SOST 200 Introduction to Social Studies Teaching 2
-SOST 450 Teaching Social Studies Secondary School 4 182 2024-2025 Undergraduate Catalog
+SOST 450 Teaching Social Studies Secondary School 4 
 Major Restricted Electives
 Diversity Elective - Choose 3 - 4 Credit(s).
 ETHN 410 Foundations of Oppression 3
@@ -14085,7 +14248,8 @@ Other Graduation Requirements
 See the Secondary 5-12 & K-12 Professional Education section of the bulletin for admission requirements for professional education and for a list of required professional education courses. Students will take two credits of general electives to meet the 120-credit degree requirement.
 Social
 Studies
-Teaching (BS) Psychology
+T
+eaching (BS) Psychology
 Total Credits: 120
 Summary
 Policies
@@ -14146,7 +14310,8 @@ Other Graduation Requirements
 See the Secondary 5-12 & K-12 Professional Education section of the bulletin for admission requirements for professional education and for a list of required professional education courses. Students will take two credits of general electives to meet the 120-credit degree requirement.
 Social
 Studies
-Teaching (BS) Sociology
+T
+eaching (BS) Sociology
 Total Credits: 120
 Summary
 Policies
@@ -14234,7 +14399,7 @@ SOWK 212 Introduction to Social Work 4
 SOWK 410 Social Welfare Policy 4
 Choose 4 Credit(s).
 SOWK 215 Introduction to Social Welfare Services 4
-SOWK 215WIntroduction to Social Welfare Services 4 184 2024-2025 Undergraduate Catalog
+SOWK 215WIntroduction to Social Welfare Services 4 
 Choose 4 Credit(s).
 SOWK 310 Human Behavior in the Social Environment 4
 SOWK 310WHuman Behavior in the Social Environment 4
@@ -14368,7 +14533,8 @@ SOWK 432
 Social
 Work and
 Disabilities 3
-Sociology (BS)
+S
+ociology (BS)
 Total Credits: 120
 Summary
 Policies
@@ -14413,8 +14579,9 @@ SOC 150 Social Problems 4
 Unrestricted Electives
 Choose 18 - 20 Credit(s). * At least 8 credits must be at the 300-400 level.
 SOC 100 - 499
-Software Development
-(CERT)
+S
+oftware 
+Development (CERT)
 Total Credits: 12
 Summary
 The software development certificate provides the students with an understanding of the successful delivery of software projects that support organizational goals. Students gain knowledge in the use of tools necessary to organize project objectives, create realistic plans, and build and manage an accomplished team through every phase of the software development project. Students gain practical skills needed to meet today’s demands for faster and more efficient development.
@@ -14456,13 +14623,14 @@ CIS 484
 Software
 Engineering 4
 Software
-Engineering (BS)
+E
+ngineering (BS)
 Total Credits: 128
 Summary
 Students transfer into this upper-division program after two years of study elsewhere or at Minnesota State University, Mankato. Study is based on learning software engineering in a work-based environment with industry partners while contributing as team members on real projects. Each semester students work in either a paid co-op position with an employer or on an industry-sponsored project.
 Policies
 Admission to the major is required before students are permitted to take 300- and 400-level courses in Software Engineering (SE).
-Students with declared majors in computer engineering or computer 186 2024-2025 Undergraduate Catalog science or with a declared minor in computer science will be given permission to take 300- and 400-level required or elective Software
+Students with declared majors in computer engineering or computer  science or with a declared minor in computer science will be given permission to take 300- and 400-level required or elective Software
 Engineering (SE) courses where they meet the pre-requisites.
 Program Requirements
 Required General Education
@@ -14541,8 +14709,8 @@ General Electives
 Take 6 credits from Goal Area 5.
 Take 6 credits from Goal Area 6.
 For general education courses, at least two classes must be from the same department, with one being at a higher level than the first.
-Spanish
-(BA)
+S
+panish (BA)
 Total Credits: 120
 Summary
 Policies
@@ -14642,11 +14810,10 @@ SPAN 498 Internship: Spanish for the Professions 1-4
 SPAN 499 Individual Study 1-4
 Unrestricted Electives
 Choose 8-12 credits.
-SPAN 201-499 188 2024-2025
-Undergraduate
-Catalog
+SPAN 201-499 
 Spanish
-Teaching (BS)
+T
+eaching (BS)
 Total Credits: 120
 Summary
 Program Requirements
@@ -14716,7 +14883,8 @@ All students seeking a teaching license must meet and maintain the requirements 
 Special Education:
 Academic and
 Behavioral
-Strategist (BS)
+S
+trategist (BS)
 Total Credits: 120
 Summary
 The program prepares educators to teach students with mild/moderate learning disabilities, emotional/behavioral disorders, autism spectrum disorders, and developmental disabilities. The program prepares new teachers for the classrooms of today where special education teachers often have students with a variety of learning needs.
@@ -14751,7 +14919,8 @@ SPED 459 Student Teaching: Mild and Moderate Disabilities 8
 SPED: Autism/
 Emotional
 Behavioral
-Disorders (BS)
+D
+isorders (BS)
 Total Credits: 120
 Summary
 The major prepares teacher candidates working in partnering local school districts to work as special education teachers for students with autism spectrum disorders and emotional behavioral disorders. Students take classes while working with district personnel to receive on-the-job training and practicum experience. Students enrolled in the program must be employed in a partnering district.
@@ -14805,7 +14974,8 @@ Autism
 Spectrum
 Disorder 3
 Sport
-Management (BS)
+M
+anagement (BS)
 Total Credits: 120
 Summary
 Policies
@@ -14829,7 +14999,7 @@ Prerequisites to the Major
 HP 141 Introduction to Sport Management 3 credits
 Admission Deadlines: Students must apply for admission to the major so that they can take the 300/400 level courses once the requirements, outlined above, have been met. Fall and spring semester deadlines are
 October 1 and March 1 respectively. Students can apply at the Sport
-Management website. Look for the “Admission Requirements” section and click on “Apply Here”. Complete the eForm and upload a PDF of your transcript. 190 2024-2025 Undergraduate Catalog
+Management website. Look for the “Admission Requirements” section and click on “Apply Here”. Complete the eForm and upload a PDF of your transcript. 
 Program Requirements
 Required General Education
 ENG 101 Foundations of Writing & Rhetoric 4
@@ -14918,7 +15088,8 @@ Training and
 Kinesiology 3
 HP 431
 Biomechanics 3
-Statistics (BS)
+S
+tatistics (BS)
 Total Credits: 120
 Summary
 Policies
@@ -15001,7 +15172,8 @@ Analysis
 I 4
 Minor
 None
-Statistics (BS) Actuarial
+S
+tatistics (BS) Actuarial
 Total Credits: 120
 Summary
 Program Requirements
@@ -15048,13 +15220,14 @@ STAT 455 Theory of Statistics I 4
 STAT 457 Sample Survey, Design and Analysis 3
 STAT 458 Categorical Data Analysis 3
 STAT 459 Nonparametric Methods 3
-Teaching English as a Foreign Language
-(CERT)
+T
+eaching 
+English as a Foreign Language (CERT)
 Total Credits: 9
 Summary
 The Teaching English as a Foreign Language (TEFL) certificate prepares students to teach English to English learners in international contexts.
 Policies
-Grade Policy. Students must earn a “C-” or better for a course to apply to their major. 192 2024-2025 Undergraduate Catalog
+Grade Policy. Students must earn a “C-” or better for a course to apply to their major. 
 P/N Grading Policy
 Courses leading to a major in English may not be taken on a P/N basis, except where P/N is mandatory.
 English Majors. Students majoring in English may elect one of the following minors: Film Studies, Linguistics, and Technical
@@ -15128,8 +15301,9 @@ ENG 482 Teaching Listening and Speaking to English Learners 4
 ENG 484 Teaching Grammar and Vocabulary to English Learners 4
 ENG 487 Teaching Reading and Writing to English Learners 4
 ENG 489 Policies, Programs, and Assessment for K-12 English Learners 4
-Teaching PK-12 Multilingual Learners
-(CERT)
+T
+eaching 
+PK-12 Multilingual Learners (CERT)
 Total Credits: 12
 Summary
 The Teaching PK-12 Multilingual Learners certificate provides teacher candidates an opportunity to complete a set of licensure-related courses intended to develop their foundational knowledge to work with multilingual learners.
@@ -15168,7 +15342,8 @@ Writing to
 English
 Learners 4
 Technical
-Communication (BS)
+C
+ommunication (BS)
 Total Credits: 120
 Summary
 Policies
@@ -15215,9 +15390,10 @@ Technology Civil Engineering Electronic Engineering Technology
 Manufacturing Engineering Technology Biology Chemistry Community
 Health Computer Information Science Computer Technology
 Environmental Science Geography Geology Math Physics Psychology
-Other, with approval; contact your advisor or the program director. 194 2024-2025 Undergraduate Catalog
-Technical Communication
-(CERT)
+Other, with approval; contact your advisor or the program director. 
+T
+echnical 
+Communication (CERT)
 Total Credits: 24
 Summary
 Policies
@@ -15285,8 +15461,9 @@ ENG 478 Technical and Scientific Literature 4
 ENG 479 Rhetorical Theory Applied to Technical Documents 4
 ENG 480 Proposals 4
 ENG 483 Writing About Health and Medicine 4
-Technical Integration & Design
-(CERT)
+T
+echnical 
+Integration & Design (CERT)
 Total Credits: 16
 Summary
 Policies
@@ -15337,8 +15514,9 @@ Elective
 Choose 4 Credit(s).
 ENGR 350 - 355 Elective Technical Competencies
 Courses are repeatable.
-Theatre Arts
-(BA)
+T
+heatre 
+Arts (BA)
 Total Credits: 120
 Summary
 The Theatre Arts BA is designed for theatre practitioners who want a general, well rounded competency in all areas of theatre performance and production. The BA degree requires eight credits of a world language.
@@ -15394,7 +15572,7 @@ THEA 417 Acting Techniques 3
 THEA 418 Acting Styles 3
 THEA 419 Acting for Radio/TV 3
 THEA 430 Theatre Management 3
-THEA 435 Advanced Directing Methods 3 196 2024-2025 Undergraduate Catalog
+THEA 435 Advanced Directing Methods 3 
 THEA 440 Scene Design I 3
 THEA 451 Drafting for the Theatre 3
 THEA 455 Technical Direction 3
@@ -15584,10 +15762,11 @@ THEA 315
 Careers in
 Theatre 1
 Theatre
-Arts (BS)
+A
+rts (BS)
 Total Credits: 120
 Summary
-The Theatre Arts BS is designed for theatre practitioners who want a general, well rounded competency in all areas of theatre performance and production. It is identical to the BA degree in Theatre except that 198 2024-2025 Undergraduate Catalog the BA requires 8 credits of a foreign language and the BS does not. The department offers a comprehensive curriculum designed to balance students’ practical training with historical and socio-political context to prepare them as creative and scholarly practitioners in the performing arts. Students’ ability to think critically and act globally equips them with the necessary knowledge and skills to enter professional lives as performers, choreographers, technicians, designers, arts administrators, arts advocates, and leaders in the arts. As a result, they emerge from the program with greater global, historical, racial, cultural, gender, and justice literacy in their fields.
+The Theatre Arts BS is designed for theatre practitioners who want a general, well rounded competency in all areas of theatre performance and production. It is identical to the BA degree in Theatre except that  the BA requires 8 credits of a foreign language and the BS does not. The department offers a comprehensive curriculum designed to balance students’ practical training with historical and socio-political context to prepare them as creative and scholarly practitioners in the performing arts. Students’ ability to think critically and act globally equips them with the necessary knowledge and skills to enter professional lives as performers, choreographers, technicians, designers, arts administrators, arts advocates, and leaders in the arts. As a result, they emerge from the program with greater global, historical, racial, cultural, gender, and justice literacy in their fields.
 Program Requirements
 Required General Education
 THEA 100 Introduction to Theatre 3
@@ -15679,7 +15858,8 @@ Choose 3 credits of any Theatre course except THEA 100, or more than 5
 Theatre Activity classes.
 Urban and
 Regional
-Studies (BS)
+S
+tudies (BS)
 Total Credits: 120
 Summary
 Program Requirements
