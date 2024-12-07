@@ -1,0 +1,6 @@
+Error Types:
+
+1. Exists in ISRS but not in the catalog
+2. Exists in Catalog but not ISRS
+3. Exists in prerequisites but not in the catalog
+4. Exists in programs section of catalog but not course list
