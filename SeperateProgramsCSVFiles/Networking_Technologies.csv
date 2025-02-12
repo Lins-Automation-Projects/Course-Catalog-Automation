@@ -1,0 +1,5 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Networking Technologies,CERT,Networking Technologies - CERT,7672,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,360,Introduction to Networking,4,"CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.",,,
+Networking Technologies,CERT,Networking Technologies - CERT,7672,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,460,Network and Security Protocols,4,CIS 360,,,
+Networking Technologies,CERT,Networking Technologies - CERT,7672,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,462,"Network, Security, Administration and Programming",4,CIS 360,,,
+Networking Technologies,CERT,Networking Technologies - CERT,7672,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,483,Web Application Design and Development,4,CIS 380,,,

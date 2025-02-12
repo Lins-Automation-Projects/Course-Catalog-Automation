@@ -1,0 +1,6 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Internet of Things,CERT,Internet of Things - CERT,200304161,19,Undergraduate,2024-2025,Major Common Core,,,,,EE,470,Wireless Networking,3,,,,
+Internet of Things,CERT,Internet of Things - CERT,200304161,19,Undergraduate,2024-2025,Major Common Core,,,,,EET,254,Microprocessors I,4,EET 113,,,
+Internet of Things,CERT,Internet of Things - CERT,200304161,19,Undergraduate,2024-2025,Major Common Core,,,,,EET,384,Microprocessors II,4,,,,
+Internet of Things,CERT,Internet of Things - CERT,200304161,19,Undergraduate,2024-2025,Major Common Core,,,,,EET,430,Computer Networking I,4,"MATH 180, EET 384",,,
+Internet of Things,CERT,Internet of Things - CERT,200304161,19,Undergraduate,2024-2025,Major Common Core,,,,,EET,441,Embedded Systems,4,"MATH 180, EET 384",,,

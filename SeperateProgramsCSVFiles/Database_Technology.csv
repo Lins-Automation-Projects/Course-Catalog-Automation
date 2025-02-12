@@ -1,0 +1,4 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Database Technology,GC,Database Technology - GC,6755,10,Graduate,2024-2025,Common Core,,,,,CIS,540,Database Management Systems,4,,,,
+Database Technology,GC,Database Technology - GC,6755,10,Graduate,2024-2025,Common Core,,,,,CIS,640,Advanced Database Systems,3,,,,
+Database Technology,GC,Database Technology - GC,6755,10,Graduate,2024-2025,Common Core,,,,,CIS,641,Big Data Systems,3,,,,

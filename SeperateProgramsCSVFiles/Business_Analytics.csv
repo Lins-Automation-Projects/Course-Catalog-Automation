@@ -1,0 +1,8 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Common Core,,,,,FINA,375,Business Analytics,3,,,,
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Common Core,,,,,FINA,475,Business Analytics II ,3,GEOL 100 or GEOL 107	or GEOL 121,,,
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Restricted Electives,,,Discipline Focus ,Choose  6 Credit(s).,FINA,400,Financial Analysis Using Excel,3,GEOL 100 GEOL 104 or GEOL 107 or GEOL 121,,,
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Restricted Electives,,,Discipline Focus ,Choose  6 Credit(s).,MGMT,404,Introduction to Business Applications,3,GEOL 100 or GEOL 107	or GEOL 121,,,
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Restricted Electives,,,Discipline Focus ,Choose  6 Credit(s).,MRKT,324,Marketing Research & Analysis,3,,,,
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Restricted Electives,,,Economics/Statistics ,Choose  4 Credit(s).,ECON,207,Business Statistics,4,,,,
+Business Analytics,CERT,Business Analytics - CERT,200308172,17,Undergraduate,2024-2025,Major Restricted Electives,,,Economics/Statistics ,Choose  4 Credit(s).,STAT,154,Elementary Statistics,4,,,,

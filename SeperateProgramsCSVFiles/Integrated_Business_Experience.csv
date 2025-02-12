@@ -1,0 +1,7 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Integrated Business Experience,CERT,Integrated Business Experience - CERT,201997621,15,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,200,Financial Accounting,3,MATH 112 or MATH 115	or MATH 121 or MATH 130 or MATH 181,,,
+Integrated Business Experience,CERT,Integrated Business Experience - CERT,201997621,15,Undergraduate,2024-2025,Major Common Core,,,,,FINA,362,Business Finance,3,ACCT 200,,,
+Integrated Business Experience,CERT,Integrated Business Experience - CERT,201997621,15,Undergraduate,2024-2025,Major Common Core,,,,,MGMT,230,Principles of Management,3,,,,
+Integrated Business Experience,CERT,Integrated Business Experience - CERT,201997621,15,Undergraduate,2024-2025,Major Common Core,,,,,MRKT,210,Principles of Marketing,3,,,,
+Integrated Business Experience,CERT,Integrated Business Experience - CERT,201997621,15,Undergraduate,2024-2025,Major Restricted Electives,,,,,BUS,397,IBE Practicum,3,Must be admitted to a major.,"FINA 362, MGMT 230, MRKT 210",,"FINA 362, MGMT 230, MRKT 210"
+Integrated Business Experience,CERT,Integrated Business Experience - CERT,201997621,15,Undergraduate,2024-2025,Major Restricted Electives,,,,,CIS,499,Individual Study,1-4,,,,

@@ -1,0 +1,5 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Database Technologies,CERT,Database Technologies - CERT,7668,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,440,Database Management Systems,4,"CIS 340, CIS 380",,,
+Database Technologies,CERT,Database Technologies - CERT,7668,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,442,"Database Security, Auditing and Disaster Recovery",4,"CIS 350, CIS 440",,,
+Database Technologies,CERT,Database Technologies - CERT,7668,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,444,Data Analytics,4,CIS 440,,,
+Database Technologies,CERT,Database Technologies - CERT,7668,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,483,Web Application Design and Development,4,CIS 380,,,

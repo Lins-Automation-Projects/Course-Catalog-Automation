@@ -1,0 +1,5 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Information Security,CERT,Information Security - CERT,7670,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,350,Information Security,4,EE 107 or CIS 121 or an approved substitute.,,,
+Information Security,CERT,Information Security - CERT,7670,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,442,"Database Security, Auditing and Disaster Recovery",4,"CIS 350, CIS 440",,,
+Information Security,CERT,Information Security - CERT,7670,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,450,Information Warfare,4,CIS 350,,,
+Information Security,CERT,Information Security - CERT,7670,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  12 Credit(s).,CIS,460,Network and Security Protocols,4,CIS 360,,,
