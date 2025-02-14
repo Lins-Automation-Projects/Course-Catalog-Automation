@@ -38,7 +38,7 @@ The **fourth** folder contains all of the scripts we used throughout the project
 
 Dependencies needed to run the scripts
 
-**Ensure Python 3.11 or higher**
+**Ensure Python 3.11 or higher && .net 9.0 or higher for Jupyter Notebook**
 
 Windows:
 ```
