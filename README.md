@@ -39,8 +39,11 @@ The **fourth** folder contains all of the scripts we used throughout the project
 Dependencies needed to run the scripts
 
 **Ensure Python 3.11 or higher && .net 9.0 or higher for Jupyter Notebook**
+
 [.net_9.0_Download_Link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+
 [Python_3_Download_Link](https://www.python.org/downloads/)
+
 [VS_Code](https://code.visualstudio.com/)
 
 **Required Libraries**
