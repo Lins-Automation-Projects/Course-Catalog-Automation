@@ -2,9 +2,11 @@ import pandas as pd
 import os
 
 # Load the CSV file
+# path will differ per file system
 df = pd.read_csv("C:/Users/Snagg/Downloads/AcademicCatalog.csv")
 
-# Ensure the output directory exists
+# Ensure that the path is correct to reflect the file system:
+# ***/New_Work/Seperate_Programs_and_degress-CSV_Files
 output_dir = "C:\Repos\LinsAutomationProject\Course-Catalog-Automation\SeperateProgramsCSVFiles"
 os.makedirs(output_dir, exist_ok=True)
 
