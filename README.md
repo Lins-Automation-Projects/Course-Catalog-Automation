@@ -37,9 +37,11 @@ The **fourth** folder contains all of the scripts we used throughout the project
 ## ☁️ Dependencies 
 
 Dependencies needed to run the scripts
+
 **Ensure Python 3.11 or higher**
 
-```Windows
+Windows:
+```
 pip install pandas
 pip install openpyxl
 ```
