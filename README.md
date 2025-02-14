@@ -34,6 +34,18 @@ The **fourth** folder contains all of the scripts we used throughout the project
 
 ---
 
+## ☁️ Dependencies 
+
+Dependencies needed to run the scripts
+**Ensure Python 3.11 or higher**
+
+```Windows
+pip install pandas
+pip install openpyxl
+```
+
+---
+
 ## 🚀 Features
 
 - **Data Standardization**: Automated cleaning and structuring of course catalog data for machine-readability.
