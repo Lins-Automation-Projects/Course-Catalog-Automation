@@ -46,7 +46,7 @@ Dependencies needed to run the scripts
 
 [VS_Code](https://code.visualstudio.com/)
 
-**Required Libraries**
+**Required Libraries:**
 
 Windows:
 ```
