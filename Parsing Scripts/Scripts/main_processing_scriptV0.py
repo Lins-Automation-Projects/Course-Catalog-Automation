@@ -37,7 +37,7 @@ main_record = load_csv_to_dataframe(file_path)
 
 # %%
 # Define output file
-output_file = "new_csv.csv"
+output_file = "Parsing Scripts/Scripts/new_csv.csv"
 
 # Create new DataFrame with required columns
 new_df = pd.DataFrame(columns=["Program", "hasPrereqToMajor", "prereqToMajorList"])
@@ -305,7 +305,7 @@ for index, row in new_df.iterrows():
 
 # %%
 # Define output file
-output_file = "new_csv.csv"
+output_file = "Parsing Scripts/Scripts/new_csv.csv"
 
 # Add a new column 'hasMajorRestrictiveElectives' to new_df without re-creating it
 new_df["hasMajorRestrictiveElectives"] = False
@@ -365,7 +365,7 @@ for index, row in new_df.iterrows():
 
 # %%
 # Define output file
-output_file = "new_csv.csv"
+output_file = "Parsing Scripts/Scripts/new_csv.csv"
 
 # Add a new column 'hasMajorUnrestrictedElectives' to new_df without re-creating it
 new_df["hasMajorUnrestrictedElectives"] = False
