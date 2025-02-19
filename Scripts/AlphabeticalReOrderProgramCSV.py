@@ -1,3 +1,5 @@
+# Description: This script reads a CSV file, sorts the Program column alphabetically, and saves to a new file.
+
 import pandas as pd
 
 def sort_programs_in_csv(input_file, output_file):

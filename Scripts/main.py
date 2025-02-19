@@ -1,3 +1,5 @@
+# Description: This script will read the Academic Catalog file and create separate CSV files for each program and degree.
+
 import pandas as pd
 import os
 
