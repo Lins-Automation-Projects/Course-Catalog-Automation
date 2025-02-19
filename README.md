@@ -21,7 +21,7 @@ This repository is a work in progress with the Enrollment Projection Team, which
 
 ## 🔎 How to navigate the GitHub
 
-There are **four** main folders in the main branch
+There are **five** main folders in the main branch
 
 The **first** folder contains our **Data**, which is all of the data we used throughout the project, including the isrs CSV file with every required course for all of the programs.
 Then, we also included a DOC and PDF file containing the entire course catalog as of 2024-2025 school year.
@@ -30,7 +30,9 @@ The **second** folder contains all of our new work, which contains all of our CS
 
 The **third** folder contains all of the previous teams work, which is all old files they worked with. May be useful if needed, but ignored and extracted important files from it.
 
-The **fourth** folder contains all of the scripts we used throughout the project.  
+the **fourth** contains our parsing scripts and all the scripts we used to create the output CSV files for the University's Programs. Uses Jupyter Notebook here. 
+
+The **fifth** folder contains all of the scripts we used throughout the project.  
 
 ---
 
