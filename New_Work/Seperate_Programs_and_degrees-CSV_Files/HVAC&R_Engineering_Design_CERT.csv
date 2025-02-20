@@ -1,0 +1,9 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Common Core,,,,,ME,240,Building Systems Documentation,1,ME 103 or instructor permission or instructor permission.,,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Common Core,,,,,ME,329,Applied Thermodynamics,3,"CHEM 191, ME 241",,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Common Core,,,,,ME,431,Building Information Modeling (BIM) for HVAC&R Engineers,1,Instructor Permission,,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Common Core,,,,,ME,432,HVAC&R Systems and Applications,1,"ME 321, ME 324, ME 329 or instructor permission.",,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Common Core,,,,,ME,439,Heating Ventilating and Air Conditioning Design,3,"ME 324, ME 329",,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  3 Credit(s).,CIVE,340,Structural Analysis,3,CIVE 223 or ME 223 ,,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  3 Credit(s).,ME,416,Thermal/Fluid Systems Design,3,"ME 324, ME 329 ",,,
+HVAC&R Engineering Design,CERT,HVAC&R Engineering Design - CERT,206182018,12,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  3 Credit(s).,MET,425,Project and Value Management,3,STAT 154,,,

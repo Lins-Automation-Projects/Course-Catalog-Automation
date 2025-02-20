@@ -1,0 +1,9 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Common Core,,,,,CIS,113,Health Humanities and Health Informatics,4,,,Purple,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Common Core,,,,,CIS,340,Introduction to Database Systems,4,CIS 121 or an approved substitute.,,,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Common Core,,,,,CIS,443,Health Information Technology in Clinical Practice,4,"CIS 113, CIS 340",,,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Common Core,,,,,NURS,286,Relationship-Based Care,3,,,,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Common Core,,,,,NURS,366,"Quality, Safety and Informatics in Healthcare",2,,,,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Common Core,,,,,NURS,499,Individual Study,1-5,,,,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  4 Credit(s).,PSYC,201,Statistics for Psychology,4,"Complete one course: MATH 112, MATH 113, MATH 115, MATH 121, MATH 130, or STAT 154",,,
+Health Informatics,CERT,Health Informatics - CERT,205312018,25,Undergraduate,2024-2025,Major Restricted Electives,,, ,Choose  4 Credit(s).,STAT,154,Elementary Statistics,4,"Satisfy Placement Table in this section, or MATH 098 with grade of P. ",,,

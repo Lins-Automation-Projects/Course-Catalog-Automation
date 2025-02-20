@@ -1,0 +1,18 @@
+ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Required General Education,,,,,MATH,121,Calculus I,4,MATH 121 with a “C” or better; PHYS 221 with a “C” or better.,MATH 122,,MATH 122
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Required General Education,,,,,PHYS,211,Principles of Physics I,4,PHYS 221 with a “C” or better; and PHYS 222 or concurrent.,,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,201,General Chemistry I,5,MATH 121 with a “C” or better; and PHYS 221 with a “C” or better,MATH 122,,MATH 122
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,202,General Chemistry II,5,PHYS 221 with a “C” or better; and PHYS 223 or concurrent.,,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,281,Biochemistry and Chemistry Professional Foundations,1,,,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,305,Analytical Chemistry,4,“C” (2.0) or higher in MATH 112 or the equivalent; high school chemistry or “C” (2.0) or higher in CHEM 104.,,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,322,Organic Chemistry I,4,"Satisfy Placement Table in this section, or MATH 098 with grade of P. ",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,324,Organic Chemistry II,3,"Satisfy Math Placement Table in this section, or grade of P in MATH 098.",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,325,Organic Chemistry II Lab,1,"Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with “C” (2.0) or better.",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,445,Physical Chemistry I,4,,,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,481W,Inquiry and Writing in Biochemistry and Chemistry,3,“C” (2.0) or higher in MATH 112 or the equivalent; high school chemistry or “C” (2.0) or higher in CHEM 104.,,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,CHEM,489,Senior Capstone,1,"Satisfy Placement Table in this section, or MATH 098 with grade of P. ",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Common Core,,,,,PHYS,212,Principles of Physics II,4,"Satisfy Math Placement Table in this section, or grade of P in MATH 098.",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Restricted Electives,,,Biochemistry Foundation ,Choose3 - 4 Credit(s).,CHEM,360,Principles of Biochemistry,4,"Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with “C” (2.0) or better.",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Restricted Electives,,,Biochemistry Foundation ,Choose3 - 4 Credit(s).,CHEM,460,Biochemistry I,3,"Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with “C” (2.0) or better.",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Restricted Electives,,,Inorganic Foundation ,Choose  3 Credit(s).,CHEM,316,Descriptive Inorganic Main Group Chemistry,3,"Either MATH 112 and MATH 113, or MATH 115",,,
+Chemistry,BA,Chemistry - BA,170,120,Undergraduate,2024-2025,Major Restricted Electives,,,Inorganic Foundation ,Choose  3 Credit(s).,CHEM,317,Transition Metal Chemistry,3,,,,
