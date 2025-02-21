@@ -32,4 +32,4 @@ def sort_programs_in_csv(input_file, output_file):
 
 # Example usage
 if __name__ == "__main__":
-    sort_programs_in_csv("New_Work/Work_In_Progress/Final_Programs.csv", "New_Work/Work_In_Progress/Final_Programs.csv")
+    sort_programs_in_csv("Parsing Scripts/Scripts/new_csv.csv", "Parsing Scripts/Scripts/new_csv.csv")
