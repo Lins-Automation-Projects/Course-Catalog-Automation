@@ -1,7 +1,7 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Reading,GC,Reading - GC,6082,18,Graduate,2024-2025,Common Core,,,,,ELE,601,Evidence-based Literacy Instruction for Emergent and Beginning Readers,3,,,,
-Reading,GC,Reading - GC,6082,18,Graduate,2024-2025,Common Core,,,,,ELE,602,Literacy Assessment and Intervention for Emergent and Beginning Readers,3,,,,
-Reading,GC,Reading - GC,6082,18,Graduate,2024-2025,Common Core,,,,,ELE,603,Literacy Practicum,3,,,,
-Reading,GC,Reading - GC,6082,18,Graduate,2024-2025,Common Core,,,,,ELE,604,Literacy Assessment and Interventions for Older Readers,3,,,,
-Reading,GC,Reading - GC,6082,18,Graduate,2024-2025,Common Core,,,,,ELE,607,Advanced Pedagogy for Literacy Instruction,3,,,,
-Reading,GC,Reading - GC,6082,18,Graduate,2024-2025,Common Core,,,,,ELE,608,Literacy Research and Policies,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Reading,GC,Reading - GC,6082,18,,Graduate,2024-2025,Common Core,,,,,ELE,601,ELE 601,Evidence-based Literacy Instruction for Emergent and Beginning Readers,3,,,
+Reading,GC,Reading - GC,6082,18,,Graduate,2024-2025,Common Core,,,,,ELE,602,ELE 602,Literacy Assessment and Intervention for Emergent and Beginning Readers,3,,,
+Reading,GC,Reading - GC,6082,18,,Graduate,2024-2025,Common Core,,,,,ELE,603,ELE 603,Literacy Practicum,3,,,
+Reading,GC,Reading - GC,6082,18,,Graduate,2024-2025,Common Core,,,,,ELE,604,ELE 604,Literacy Assessment and Interventions for Older Readers,3,,,
+Reading,GC,Reading - GC,6082,18,,Graduate,2024-2025,Common Core,,,,,ELE,607,ELE 607,Advanced Pedagogy for Literacy Instruction,3,,,
+Reading,GC,Reading - GC,6082,18,,Graduate,2024-2025,Common Core,,,,,ELE,608,ELE 608,Literacy Research and Policies,3,,,

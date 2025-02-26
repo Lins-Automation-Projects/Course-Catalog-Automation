@@ -1,5 +1,5 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Project Management,GC,Project Management - GC,201999999,12,Graduate,2024-2025,Common Core,,,,,MET,507,Manufacturing Resource Planning and Control,3,,,,
-Project Management,GC,Project Management - GC,201999999,12,Graduate,2024-2025,Common Core,,,,,MET,525,Project & Value Management,3,,,,
-Project Management,GC,Project Management - GC,201999999,12,Graduate,2024-2025,Common Core,,,,,MET,526,Logistics & Transportation,3,,,,
-Project Management,GC,Project Management - GC,201999999,12,Graduate,2024-2025,Common Core,,,,,MET,625,Advanced Project Management,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Project Management,GC,Project Management - GC,201999999,12,,Graduate,2024-2025,Common Core,,,,,MET,507,MET 507,Manufacturing Resource Planning and Control,3,,,
+Project Management,GC,Project Management - GC,201999999,12,,Graduate,2024-2025,Common Core,,,,,MET,525,MET 525,Project & Value Management,3,,,
+Project Management,GC,Project Management - GC,201999999,12,,Graduate,2024-2025,Common Core,,,,,MET,526,MET 526,Logistics & Transportation,3,,,
+Project Management,GC,Project Management - GC,201999999,12,,Graduate,2024-2025,Common Core,,,,,MET,625,MET 625,Advanced Project Management,3,,,

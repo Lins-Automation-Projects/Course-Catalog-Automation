@@ -1,5 +1,5 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Urban Planning,GC,Urban Planning - GC,5745,12,Graduate,2024-2025,Common Core,,,,,URBS,602,Planning Process,3,,,,
-Urban Planning,GC,Urban Planning - GC,5745,12,Graduate,2024-2025,Common Core,,,,,URBS,604,Planning Law,3,,,,
-Urban Planning,GC,Urban Planning - GC,5745,12,Graduate,2024-2025,Common Core,,,,,URBS,661,Long Range & Strategic Planning,3,,,,
-Urban Planning,GC,Urban Planning - GC,5745,12,Graduate,2024-2025,Common Core,,,,,URBS,662,Planning the Built Enrironment,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Urban Planning,GC,Urban Planning - GC,5745,12,,Graduate,2024-2025,Common Core,,,,,URBS,602,URBS 602,Planning Process,3,,,
+Urban Planning,GC,Urban Planning - GC,5745,12,,Graduate,2024-2025,Common Core,,,,,URBS,604,URBS 604,Planning Law,3,,,
+Urban Planning,GC,Urban Planning - GC,5745,12,,Graduate,2024-2025,Common Core,,,,,URBS,661,URBS 661,Long Range & Strategic Planning,3,,,
+Urban Planning,GC,Urban Planning - GC,5745,12,,Graduate,2024-2025,Common Core,,,,,URBS,662,URBS 662,Planning the Built Enrironment,3,,,

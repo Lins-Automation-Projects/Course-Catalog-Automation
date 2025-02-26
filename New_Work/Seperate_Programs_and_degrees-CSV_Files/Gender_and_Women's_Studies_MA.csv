@@ -1,8 +1,8 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Common Core,,,,,GWS,540,Cultivating Inclusive Classrooms,3,,,,
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Common Core,,,,,GWS,600,Collective Action,3,,,,
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Common Core,,,,,GWS,610,Graduate Seminar,3,,,,
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Common Core,,,,,GWS,630,Transnational Feminism,3,,,,
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Common Core,,,,,GWS,640,Feminist Theories,3,,,,
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Research/Methods Course(s),,,,,GWS,620,Feminist Research,3,,,,
-Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,Graduate,2024-2025,Capstone Course,,, ,Choose  3 Credit(s).,GWS,699,Thesis,3-6,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Capstone Course,,, ,Choose  3 Credit(s).,GWS,699,GWS 699,Thesis,3-6,,,
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Common Core,,,,,GWS,540,GWS 540,Cultivating Inclusive Classrooms,3,,,
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Common Core,,,,,GWS,600,GWS 600,Collective Action,3,,,
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Common Core,,,,,GWS,610,GWS 610,Graduate Seminar,3,,,
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Common Core,,,,,GWS,630,GWS 630,Transnational Feminism,3,,,
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Common Core,,,,,GWS,640,GWS 640,Feminist Theories,3,,,
+Gender and Women's Studies,MA,Gender and Women's Studies - MA,7856,30,,Graduate,2024-2025,Research/Methods Course(s),,,,,GWS,620,GWS 620,Feminist Research,3,,,
