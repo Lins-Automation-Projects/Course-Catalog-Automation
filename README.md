@@ -57,6 +57,11 @@ pip install openpyxl
 ```
 
 ---
+## Running the Scripts
+
+To run the script, we are looking at the maximusV2.py file which is located in Parsing Scripts/Scripts folder. When you run this file (run as a Python file), you will input a CSV file from the seperate_programs_and_degress-CSV_files folder. This will then run the script and output the results into the new_csv.csv file, where you can then look at the University website at the specific major you ran to manually verify if needed (recommended). 
+
+---
 
 ## 🚀 Features
 
