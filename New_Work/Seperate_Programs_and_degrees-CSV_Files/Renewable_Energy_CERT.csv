@@ -1,4 +1,4 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Renewable Energy,CERT,Renewable Energy - CERT,200620151,10,Undergraduate,2024-2025,Major Common Core,,,,,AET,334,Fluid Power,3,"MATH 121, PHYS 211",,,
-Renewable Energy,CERT,Renewable Energy - CERT,200620151,10,Undergraduate,2024-2025,Major Common Core,,,,,EET,315,Programmable Instrumentation,3,EE 234 and EE 235 OR EET 254,,,
-Renewable Energy,CERT,Renewable Energy - CERT,200620151,10,Undergraduate,2024-2025,Major Common Core,,,,,EET,355,Electrical Power Systems,4,"EET 114, MATH 127, PHYS 212",,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Renewable Energy,CERT,Renewable Energy - CERT,200620151,10,,Undergraduate,2024-2025,Major Common Core,,,,,AET,334,AET 334,Fluid Power,3," MATH 121, PHYS 211",,
+Renewable Energy,CERT,Renewable Energy - CERT,200620151,10,,Undergraduate,2024-2025,Major Common Core,,,,,EET,315,EET 315,Programmable Instrumentation,3,EE 234 and EE 235 OR EET 254,,
+Renewable Energy,CERT,Renewable Energy - CERT,200620151,10,,Undergraduate,2024-2025,Major Common Core,,,,,EET,355,EET 355,Electrical Power Systems,4,"EET 114, MATH 127, PHYS 212",,

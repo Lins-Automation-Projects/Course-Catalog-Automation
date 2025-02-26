@@ -1,2 +1,2 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Theatre Arts,MA,Theatre Arts - MA,288,30,Graduate,2024-2025,Research/Methods Course(s),,,,,THEA,680,Theatre Research,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Theatre Arts,MA,Theatre Arts - MA,288,30,,Graduate,2024-2025,Research/Methods Course(s),,,,,THEA,680,THEA 680,Theatre Research,3,,,

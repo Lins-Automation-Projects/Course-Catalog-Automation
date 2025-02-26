@@ -1,4 +1,4 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Global Solutions in Engineering and Technology,GC,Global Solutions in Engineering and Technology - GC,209999694,9,Graduate,2024-2025,Common Core,,,,,ME,594,Global Experience in Engineering and Technology,1,,,,
-Global Solutions in Engineering and Technology,GC,Global Solutions in Engineering and Technology - GC,209999694,9,Graduate,2024-2025,Restricted Electives,,,,,GEOG,620,Issues in Cultural Geography,1-4,,,,
-Global Solutions in Engineering and Technology,GC,Global Solutions in Engineering and Technology - GC,209999694,9,Graduate,2024-2025,Restricted Electives,,,,,SOC,530,Sociology of Globalization,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Global Solutions in Engineering and Technology,GC,Global Solutions in Engineering and Technology - GC,209999694,9,,Graduate,2024-2025,Common Core,,,,,ME,594,ME 594,Global Experience in Engineering and Technology,1,,,
+Global Solutions in Engineering and Technology,GC,Global Solutions in Engineering and Technology - GC,209999694,9,,Graduate,2024-2025,Restricted Electives,,,,,GEOG,620,GEOG 620,Issues in Cultural Geography,1-4,,,
+Global Solutions in Engineering and Technology,GC,Global Solutions in Engineering and Technology - GC,209999694,9,,Graduate,2024-2025,Restricted Electives,,,,,SOC,530,SOC 530,Sociology of Globalization,3,,,

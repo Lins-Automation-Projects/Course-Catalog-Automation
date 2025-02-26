@@ -1,5 +1,5 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,Graduate,2024-2025,Common Core,,,,,KSP,624,"Accessibility, Technology, and Learning",3,,,,
-Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,Graduate,2024-2025,Common Core,,,,,KSP,639,Technology Leadership,3,,,,
-Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,Graduate,2024-2025,Common Core,,,,,KSP,643,Introduction to Design in Education,3,,,,
-Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,Graduate,2024-2025,Common Core,,,,,KSP,693,Leveraging Technology for Professional Learning,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,,Graduate,2024-2025,Common Core,,,,,KSP,624,KSP 624,"Accessibility, Technology, and Learning",3,,,
+Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,,Graduate,2024-2025,Common Core,,,,,KSP,639,KSP 639,Technology Leadership,3,,,
+Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,,Graduate,2024-2025,Common Core,,,,,KSP,643,KSP 643,Introduction to Design in Education,3,,,
+Edu Tech for Adult and Prof Learners,GC,Edu Tech for Adult and Prof Learners - GC,8603,12,,Graduate,2024-2025,Common Core,,,,,KSP,693,KSP 693,Leveraging Technology for Professional Learning,3,,,

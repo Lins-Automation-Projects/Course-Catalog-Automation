@@ -1,9 +1,9 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,640,Mathematical Methods for Physicists,3,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,650,Classical Mechanics,3,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,660,Quantum Mechanics,3,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,670,Electricity and Magnetism,3,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Research/Methods Course(s),,,,,PHYS,607,Intro to Research,2,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Research/Methods Course(s),,,,,PHYS,692,Seminar,1,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Capstone Course,,,,,PHYS,694,Alternate Plan Paper,1-2,,,,
-Physics,MS,Physics - MS,188,34,Graduate,2024-2025,Capstone Course,,,,,PHYS,699,Thesis,1-6,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Capstone Course,,,,,PHYS,694,PHYS 694,Alternate Plan Paper,1-2,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Capstone Course,,,,,PHYS,699,PHYS 699,Thesis,1-6,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Research/Methods Course(s),,,,,PHYS,607,PHYS 607,Intro to Research,2,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Research/Methods Course(s),,,,,PHYS,692,PHYS 692,Seminar,1,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,640,PHYS 640,Mathematical Methods for Physicists,3,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,650,PHYS 650,Classical Mechanics,3,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,660,PHYS 660,Quantum Mechanics,3,,,
+Physics,MS,Physics - MS,188,34,,Graduate,2024-2025,Restricted Electives,,, ,Choose9 - 12 Credit(s).,PHYS,670,PHYS 670,Electricity and Magnetism,3,,,

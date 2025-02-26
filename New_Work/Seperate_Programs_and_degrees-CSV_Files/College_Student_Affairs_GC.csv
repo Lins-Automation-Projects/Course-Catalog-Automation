@@ -1,5 +1,5 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-College Student Affairs,GC,College Student Affairs - GC,202222976,12,Graduate,2024-2025,Common Core,,,,,CSP,620,Introduction to College Student Affairs in Higher Education,3,Concurrent enrollment in CDIS 434 ,,,
-College Student Affairs,GC,College Student Affairs - GC,202222976,12,Graduate,2024-2025,Common Core,,,,,CSP,622,Administration and Finance in Student Affairs,3,"Consent, concurrent enrollment in CDIS 431 ",,,
-College Student Affairs,GC,College Student Affairs - GC,202222976,12,Graduate,2024-2025,Common Core,,,,,CSP,662,College Student Development in the US,3,,,,
-College Student Affairs,GC,College Student Affairs - GC,202222976,12,Graduate,2024-2025,Common Core,,,,,CSP,664,Organizational and Program Assessment in Student Affairs ,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+College Student Affairs,GC,College Student Affairs - GC,202222976,12,,Graduate,2024-2025,Common Core,,,,,CSP,620,CSP 620,Introduction to College Student Affairs in Higher Education,3,,,
+College Student Affairs,GC,College Student Affairs - GC,202222976,12,,Graduate,2024-2025,Common Core,,,,,CSP,622,CSP 622,Administration and Finance in Student Affairs,3,,,
+College Student Affairs,GC,College Student Affairs - GC,202222976,12,,Graduate,2024-2025,Common Core,,,,,CSP,662,CSP 662,College Student Development in the US,3,,,
+College Student Affairs,GC,College Student Affairs - GC,202222976,12,,Graduate,2024-2025,Common Core,,,,,CSP,664,CSP 664,Organizational and Program Assessment in Student Affairs ,3,,,
