@@ -42,13 +42,23 @@ Dependencies needed to run the scripts
 
 **Ensure Python 3.11 or higher && .net 9.0 or higher for Jupyter Notebook**
 
+When you go to run the **.ipynb** file it will or _should_ automatically prompt you to download **ipykernel** from Jupyter. Install this to be able to run the **.ipynb** file.
+
+When you run the file, you will also have to select the specific _kernel_ you will want to run it in. This button will be in the upper right corner of the **.ipynb** file. 
+
+When you run the **.ipynb** file, MAKE SURE TO HIT THE **Run All** button in the top bar / top part of the file.
+
+It will then prompt you to input a CSV file, copy the path to any CSV file in the **Seperate_Programs_and_degrees-CSV_Files** folder, then put that into the input. The program then should take that data and output it into the **new_csv.csv** that is in the same folder with the script. 
+
+These **.ipynb** files are also extracted into normal **.py** files with the same name if you are having issues with running **.ipynb** files.
+
 [.net_9.0_Download_Link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
-[Python_3_Download_Link](https://www.python.org/downloads/)
+[Python_3_Or-Higher_Download_Link](https://www.python.org/downloads/)
 
 [VS_Code](https://code.visualstudio.com/)
 
-**Required Libraries:**
+**Required Libraries (There may be more that will be prompted to you if needed by VSCode):**
 
 Windows:
 ```
