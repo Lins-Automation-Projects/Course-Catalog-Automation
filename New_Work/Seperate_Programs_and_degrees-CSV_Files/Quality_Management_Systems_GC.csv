@@ -1,6 +1,6 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,Graduate,2024-2025,Common Core,,,,,MET,527,Quality Management Systems,3,,,,
-Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,Graduate,2024-2025,Common Core,,,,,MET,528,Lean Manufacturing,3,,,,
-Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,Graduate,2024-2025,Common Core,,,,,MET,627,Six Sigma from an Industrial Perspective,3,,,,
-Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,Graduate,2024-2025,Common Core,,,,,MET,628,Statistical Quality Control,3,,,,
-Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,Graduate,2024-2025,Common Core,,,,,MET,654,Design of Experiments,3,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,,Graduate,2024-2025,Common Core,,,,,MET,527,MET 527,Quality Management Systems,3,,,
+Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,,Graduate,2024-2025,Common Core,,,,,MET,528,MET 528,Lean Manufacturing,3,,,
+Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,,Graduate,2024-2025,Common Core,,,,,MET,627,MET 627,Six Sigma from an Industrial Perspective,3,,,
+Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,,Graduate,2024-2025,Common Core,,,,,MET,628,MET 628,Statistical Quality Control,3,,,
+Quality Management Systems,GC,Quality Management Systems - GC,205555577,15,,Graduate,2024-2025,Common Core,,,,,MET,654,MET 654,Design of Experiments,3,,,

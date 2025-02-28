@@ -1,9 +1,9 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Common Core,,,,,MACC,640,External Auditing and Other Attest Services,2,"Satisfy Math Placement Table in this section, or grade of P in MATH 098.",,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,620,Financial Statement Analysis,2,,,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,630,Corporate Governance and Professional Ethics,2,"BIOL 105, BIOL 106, and MATH 112 ",,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,635,Special Topics in Accounting,2,“C” (2.0) or higher in MATH 112 or the equivalent; high school chemistry or “C” (2.0) or higher in CHEM 104.,,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,642,Fraud Examination and Forensic Accounting,2,“C” (2.0) or higher in CHEM 201 ,,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,645,IT Auditing,2,CHEM 322,,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,660,Applied Business Analytics,2,“C” (2.0) or higher in CHEM 202 ,,,
-Assurance,GC,Assurance - GC,200023228,10,Graduate,2024-2025,Restricted Electives,,,,,MACC,665,Professional Consultancy,2,"CHEM 202, “C” (2.0) or higher in CHEM 202.",,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Common Core,,,,,MACC,640,MACC 640,External Auditing and Other Attest Services,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,620,MACC 620,Financial Statement Analysis,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,630,MACC 630,Corporate Governance and Professional Ethics,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,635,MACC 635,Special Topics in Accounting,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,642,MACC 642,Fraud Examination and Forensic Accounting,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,645,MACC 645,IT Auditing,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,660,MACC 660,Applied Business Analytics,2,,,
+Assurance,GC,Assurance - GC,200023228,10,,Graduate,2024-2025,Restricted Electives,,,,,MACC,665,MACC 665,Professional Consultancy,2,,,

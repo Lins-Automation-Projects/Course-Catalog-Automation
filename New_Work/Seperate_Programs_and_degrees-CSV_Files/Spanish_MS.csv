@@ -1,4 +1,4 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Spanish,MS,Spanish - MS,576,34,Graduate,2024-2025,Common Core,,,,,WLC,560,Methods of Teaching Modern Languages,3,,,,
-Spanish,MS,Spanish - MS,576,34,Graduate,2024-2025,Research/Methods Course(s),,,,,SPAN,600,"Research, Resources and Writing",3,,,,
-Spanish,MS,Spanish - MS,576,34,Graduate,2024-2025,Capstone Course,,, ,Choose1 - 3 Credit(s).,SPAN,699,Thesis,3-6,,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Spanish,MS,Spanish - MS,576,34,,Graduate,2024-2025,Capstone Course,,, ,Choose1 - 3 Credit(s).,SPAN,699,SPAN 699,Thesis,3-6,,,
+Spanish,MS,Spanish - MS,576,34,,Graduate,2024-2025,Common Core,,,,,WLC,560,WLC 560,Methods of Teaching Modern Languages,3,,,
+Spanish,MS,Spanish - MS,576,34,,Graduate,2024-2025,Research/Methods Course(s),,,,,SPAN,600,SPAN 600,"Research, Resources and Writing",3,,,

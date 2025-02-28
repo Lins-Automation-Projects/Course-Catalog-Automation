@@ -1,7 +1,7 @@
-ProgramName,Degree,PrgoramName with Degree,ProgID,TotalCredits,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Title,Credits,PreReq,CoReq,DiverseCultures,Unnamed: 19
-Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,220,Accounting Cycle Applications,1,ACCT 200,,,
-Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,300,Intermediate Financial Accounting I,3,ACCT 200,,,
-Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,301,Intermediate Financial Accounting II,3,ACCT 300 ,,,
-Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,330,Individual Income Tax,3,"ACCT 200, ACCT 210",,,
-Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,410,Business Income Tax,3,"ACCT 300, ACCT 330 ",,,
-Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,421,Assurance Services I,3,ACCT 300,,,
+ProgramName,Degree,Program,ProgID,TotalCredits,EmphasisName,CatalogType,CatalogYear,Description,SeriesHeading,Group_CategoryTitle,Group_CategoryNotes,GroupCredits,SubjectAbbreviation,CourseNumber,Course,Title,Credits,PreReq,CoReq,DiverseCultures
+Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,220,ACCT 220,Accounting Cycle Applications,1, ACCT 200,,
+Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,300,ACCT 300,Intermediate Financial Accounting I,3,ACCT 200,,
+Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,301,ACCT 301,Intermediate Financial Accounting II,3, ACCT 300 ,,
+Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,330,ACCT 330,Individual Income Tax,3," ACCT 200, ACCT 210",,
+Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,410,ACCT 410,Business Income Tax,3," ACCT 300, ACCT 330 ",,
+Accelerated Accounting,CERT,Accelerated Accounting - CERT,200023125,16,,Undergraduate,2024-2025,Major Common Core,,,,,ACCT,421,ACCT 421,Assurance Services I,3,ACCT 300,,
