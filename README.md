@@ -20,6 +20,9 @@ This repository is a work in progress with the Enrollment Projection Team, which
 Please see our Handover Documentation for further details about the project:
 [HandoverDocumentation](https://docs.google.com/document/d/1cGDePDSeqsEZEynMIXdLtys_tKGcuo_o/edit?usp=sharing&ouid=111109381263984826684&rtpof=true&sd=true)
 
+Link to Handover Documentation Main Folder (all handover documentation is located here):
+[HandoverDocFolderMAIN](https://drive.google.com/drive/folders/1QzcPhiwN3tsmDp8o_IQDrD6uY_9eQmZk?usp=drive_link)
+
 ---
 
 ## 🔎 How to navigate the GitHub
