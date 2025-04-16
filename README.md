@@ -17,22 +17,25 @@ This repository contains the codebase and supporting documentation for the **Cou
 
 This repository is a work in progress with the Enrollment Projection Team, which is the Partner CS team we worked with throughout the semester to provide them with the data about the Course Catalog from the University in a clean, organized fashion.
 
+Please see our Handover Documentation for further details about the project:
+[HandoverDocumentation](https://docs.google.com/document/d/1cGDePDSeqsEZEynMIXdLtys_tKGcuo_o/edit?usp=sharing&ouid=111109381263984826684&rtpof=true&sd=true)
+
 ---
 
 ## 🔎 How to navigate the GitHub
 
 There are **five** main folders in the main branch
 
-The **first** folder contains our **Data**, which is all of the data we used throughout the project, including the isrs CSV file with every required course for all of the programs.
+The **first** folder (Data) contains our **Data**, which is all of the data we used throughout the project, including the isrs CSV file with every required course for all of the programs.
 Then, we also included a DOC and PDF file containing the entire course catalog as of 2024-2025 school year.
 
-The **second** folder contains all of our new work, which contains all of our CSV files that we were able to output and work with throughout the semester. 
+The **second** folder (New_Work) contains all of our new work, which contains all of our CSV files that we were able to output and work with throughout the semester. 
 
-The **third** folder contains all of the previous teams work, which is all old files they worked with. May be useful if needed, but ignored and extracted important files from it.
+The **third** folder (Old_Work_from_Previous_team) contains all of the previous teams work, which is all old files they worked with. May be useful if needed, but ignored and extracted important files from it.
 
-the **fourth** contains our parsing scripts and all the scripts we used to create the output CSV files for the University's Programs. Uses Jupyter Notebook here. 
+the **fourth** folder (Parsing Scripts/Scripts) contains our parsing scripts and all the scripts we used to create the output CSV files for the University's Programs. Also contains Maximus script. Uses Jupyter Notebook here. 
 
-The **fifth** folder contains all of the scripts we used throughout the project.  
+The **fifth** folder (Scripts) contains all of the scripts we used throughout the project.  
 
 ---
 
@@ -70,6 +73,9 @@ pip install openpyxl
 ## Running the Scripts
 
 To run the script, we are looking at the maximusV2.py file which is located in Parsing Scripts/Scripts folder. When you run this file (run as a Python file), you will input a CSV file from the seperate_programs_and_degress-CSV_files folder. This will then run the script and output the results into the new_csv.csv file, where you can then look at the University website at the specific major you ran to manually verify if needed (recommended). 
+
+Please see our documentation on the Maximus script to get further details on running it:
+[MaximusOperatingGuide](https://docs.google.com/document/d/1lRv_oX56ReinbQxL4zgjadUbcDbfe6tm1i3ecoDD274/edit?usp=sharing)
 
 ---
 
