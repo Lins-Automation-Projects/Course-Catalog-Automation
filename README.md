@@ -32,13 +32,14 @@ There are **five** main folders in the main branch
 The **first** folder (Data) contains our **Data**, which is all of the data we used throughout the project, including the isrs CSV file with every required course for all of the programs.
 Then, we also included a DOC and PDF file containing the entire course catalog as of 2024-2025 school year.
 
-The **second** folder (New_Work) contains all of our new work, which contains all of our CSV files that we were able to output and work with throughout the semester. 
+The **second** folder (New_Work) contains all of our new work, which contains all of our CSV files that we were able to output and work with throughout the semester. Inside there, the **Seperate programs and degrees CSV files** is the main folder that we were able to take as Input files for our Maximus script. 
 
 The **third** folder (Old_Work_from_Previous_team) contains all of the previous teams work, which is all old files they worked with. May be useful if needed, but ignored and extracted important files from it.
 
-the **fourth** folder (Parsing Scripts/Scripts) contains our parsing scripts and all the scripts we used to create the output CSV files for the University's Programs. Also contains Maximus script. Uses Jupyter Notebook here. 
+The **fourth** folder (Parsing Scripts/Scripts) contains our parsing scripts and all the scripts we used to create the output CSV files for the University's Programs. Also contains Maximus script. Uses Jupyter Notebook here. **MaximusV2.py** is the main script that we used to work on the project.
 
-The **fifth** folder (Scripts) contains all of the scripts we used throughout the project.  
+The **fifth** folder (Scripts) contains all of the scripts we used throughout the project. The **Alphabetical** script would organize the **new_csv.csv** file in alphabetical order, and the **BetterVerifyCSVFileIsCorrect.py** script allowed us to get a better feel for the correct Syntax for the **new_csv.csv** file for the Partner CS Enrollment Projection team. 
+
 
 ---
 
