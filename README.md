@@ -32,7 +32,7 @@ There are **five** main folders in the main branch
 The **first** folder (Data) contains our **Data**, which is all of the data we used throughout the project, including the isrs CSV file with every required course for all of the programs.
 Then, we also included a DOC and PDF file containing the entire course catalog as of 2024-2025 school year.
 
-The **second** folder (New_Work) contains all of our new work, which contains all of our CSV files that we were able to output and work with throughout the semester. Inside there, the **Seperate programs and degrees CSV files** is the main folder that we were able to take as Input files for our Maximus script. 
+The **second** folder (New_Work) contains all of our new work, which contains all of our CSV files that we were able to output and work with throughout the semester. Inside there, the **Seperate programs and degrees CSV files** is the main folder that we were able to take as Input files for our Maximus script. In here there is also the **cleaned_course_list.csv** which was a very important aspect for the Partner CS Enrollement Projection Team. 
 
 The **third** folder (Old_Work_from_Previous_team) contains all of the previous teams work, which is all old files they worked with. May be useful if needed, but ignored and extracted important files from it.
 
